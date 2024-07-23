@@ -1,0 +1,45 @@
+<div *ngIf="currentRecipeGrade.length!=0">
+  <!-- <div><img src="http://localhost:52298/pictures/{{currentRecipe.image}}" class="img image"></div> -->
+
+  <div *ngIf="currentRecipeGrade.length>0">
+    <table class="table table-bordered"
+      style="width: 40vw; margin-left: auto; margin-right: auto; margin-bottom: 5vh; margin-top: 5vh;">
+      <thead style=" background-color: #fa7c8f;">
+        <tr class="info">
+          <th style="text-align: center; background-color:#bb9493;"> ציון</th>
+          <th style="text-align: center; background-color: #bb9493;">תגובה מילולית</th>
+          <th style="text-align: center; background-color: #bb9493;">מגיב </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let item of currentRecipeGrade; let i=index"
+          style="background-color:  #ffebec; text-align: center;">
+          <td> {{item.grade}} </td>
+          <td> {{item.comment}}</td>
+          <td>{{this.users[i].name}}</td>
+
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <!-- <div *ngIf="currentRecipeGrade.length==0">מתכון זה עדיין לא דורג</div> -->
+</div>
+
+<!-- -->
+<div *ngIf="currentRecipeGrade.length==0 && this.recipeService.flag==true;" class="modal">
+  <mat-card class="modal-content animate">
+    <mat-card-title style="color:#4d4646;">אין עדיין דרוגים למתכון זה:</mat-card-title>
+    <mat-form-field class="example-full-width" appearance="fill">
+    </mat-form-field>
+
+    <div style="text-align: left;">
+      <button type="submit" pButton icon="pi pi-check" (click)="cancel()" label="אישור" class="inpbtn btnYe"
+        style="background-color: lawngreen !important;">
+        אישור</button>
+    </div>
+  </mat-card>
+
+</div>
+
+
+

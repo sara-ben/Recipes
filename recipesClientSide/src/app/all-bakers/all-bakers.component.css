@@ -1,0 +1,18 @@
+.all{
+    background-color: rgb(229, 182, 182) ;
+    min-height: 89vh;
+}
+.rec{
+    background-color:gray;
+    text-align: center;
+}
+.btn{
+    background-color:  rgb(229, 182, 182);
+  
+}
+.itm{
+    margin-left: 10%;
+    margin-left: 10%;
+    /* margin: 10%; */
+
+}

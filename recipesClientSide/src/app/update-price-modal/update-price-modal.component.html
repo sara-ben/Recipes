@@ -1,0 +1,20 @@
+<div class="modal">
+    
+  <mat-card class="modal-content animate">
+    <mat-card-title style="color:#4d4646;">שינוי מחיר למוצר:</mat-card-title>
+            <mat-form-field class="example-full-width" appearance="fill">
+              <mat-label>שם המוצר:</mat-label>
+      <input type="text"  matInput name="name" value="ngModel" [(ngModel)]="productService.tmp2" >
+      </mat-form-field>  
+      <mat-form-field class="example-full-width" appearance="fill">
+        <mat-label>מחיר המוצר שבחרת ל100 גרם הוא :</mat-label>
+        <input type="number"  matInput name="avgPrice" value="ngModel" [ngModel]="productService.tmp|number" (ngModelChange)="productService.tmp=$event" min="0" step="0.1">
+     </mat-form-field>
+  <br>
+<div style="text-align: left;">
+  <button type="submit" pButton icon="pi pi-check" (click)="change()" label="    עדכן" class="inpbtn btnYe" ></button>
+  <button type="button" pButton icon="pi pi-times" (click)="cancel()" (click)="display=false" label="  ביטול  " class="ui-button-secondary" class="inpbtn"></button>
+  </div>
+  </mat-card>   
+       
+    </div>

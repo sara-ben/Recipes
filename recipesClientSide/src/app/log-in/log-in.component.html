@@ -1,0 +1,119 @@
+<!-- <p>hhhhhhhh</p>
+<h1>iiiiiii</h1>
+<section>
+  <div class="example-label">Basic</div>
+  <div class="example-button-row">
+    <button mat-button>Basic</button>
+    <button mat-button color="primary">Primary</button>
+    <button mat-button color="accent">Accent</button>
+    <button mat-button color="warn">Warn</button>
+    <button mat-button disabled>Disabled</button>
+    <a mat-button href="https://www.google.com/" target="_blank">Link</a>
+  </div>
+</section>
+<p-steps [model]="items"></p-steps> -->
+
+<!-- <p-steps>
+    <p-menuitem />
+    <p-menuitem  />
+    <p-menuitem />
+    <p-menuitem />
+    <p>hhh</p>
+    <p>kkk</p>
+</p-steps> -->
+<!-- <p-messages>hhhhhhhhhhhhhh</p-messages> -->
+<!-- 
+<cdk-step>hhhhh</cdk-step> -->
+
+
+
+<body>
+  <div id="div1">
+
+    <form action="">
+      <fieldset>
+        <legend style="text-align: right;  padding-right: 80px;">:טופס רישום</legend>
+        <div class="form-group"></div>
+        <label for="name">שם </label>
+        <input type="text" class="form-control" (click)="nameEmpty()" style="width: min-content;" id="name" name="name"
+          [(ngModel)]="u.name">
+
+        <div class="form-group"></div>
+        <label for="email">מייל</label>
+        <input type="email" required class="form-control" (click)="emailEmpty()" style="width: min-content;" id="email"
+          name="email" [(ngModel)]="u.email">
+
+
+        <div class="form-group"></div>
+        <label for="password">סיסמא </label>
+        <input type="password" required class="form-control" (click)="passwordEmpty()" style="width: min-content;"
+          id="password" name="password" [(ngModel)]="u.password">
+        <div id="non" style="display:none;">
+          <div class="form-group"></div>
+          <label for="logo">לוגו </label>
+          <!-- <input type="file" class="form-control inputColer inputSize marginAuto" (change)="mychange($event)" [(ngModel)]="myNewRecipe.NRecipe.image" placeholder="הכנס תמונה"  name="pic"> -->
+          <input type="file" class="form-control" (change)="mychange($event)" style="width: min-content;" id="logo"
+            name="logo" [(ngModel)]="baker.logo">
+          <button (click)="upLoad()">העלה</button>
+        </div>
+
+
+
+
+
+        <div id="addU" style="display: none;">
+          <a href=""><button class="btn btn-info button1" (click)="send(u)">לסיום</button></a>
+
+          <button class="btn btn-info button2" [routerLink]="['/aboutUser']">הקודם</button>
+        </div>
+        <div id="addR" style="display: none;">
+          <a href="" (click)="send(u)"> <button class="btn btn-info button1" type="submit"><i
+                class="fa fa-arrow-left white marginR"></i> להמשך </button></a>
+          <button class="btn btn-info button2" [routerLink]="['/aboutBaker']">הקודם<i
+              class="fa fa-arrow-right white marginL"></i> </button>
+        </div>
+
+        <button class="btn btn-info d-flex justify-content-center align-items-center button3" [routerLink]="['/']"><i
+            class="fa fa-home fa-2x white"></i></button>
+        <!-- <mat-icon aria-hidden="false" aria-label="Example home icon">home</mat-icon> -->
+
+      </fieldset>
+    </form>
+  </div>
+  <div id="addU2" style="display: none;">
+    <div id="div2" class="d-flex justify-content-center align-items-center">
+      <div class="divStep divStepF"><button class="step stepF" [routerLink]="['/chooseLogIn']">1</button></div>
+      <div class="line"></div>
+      <div class="divStep"><button class="step stepF" [routerLink]="['/aboutUser']">2</button></div>
+      <div class="line"></div>
+      <div class="divStep"><button class="step stepC">3</button></div>
+    </div>
+  </div>
+  <div id="addR2" style="display: none;">
+    <div id="div2" class="d-flex justify-content-center align-items-center">
+      <div class="divStep divStepF"><button class="step stepF" [routerLink]="['/chooseLogIn']">1</button></div>
+      <div class="line line2"></div>
+      <div class="divStep"><button class="step stepF" [routerLink]="['/aboutBaker']">2</button></div>
+      <div class="line line2"></div>
+      <div class="divStep"><button class="step stepC">3</button></div>
+      <div class="line line2"></div>
+      <div class="divStep"><button class="step" (click)="send(u)">4</button></div>
+    </div>
+  </div>
+
+
+
+  <div *ngIf="this.logInBaker==1" class="modal" style="z-index: 1 !important;">
+    <mat-card class="modal-content animate">
+      <mat-card-title style="color:#4d4646;">אין עדיין דרוגים למתכון זה:</mat-card-title>
+      <mat-form-field class="example-full-width" appearance="fill">
+      </mat-form-field>
+
+      <div style="text-align: left;">
+        <button type="submit" pButton icon="pi pi-check" label="אישור" class="inpbtn btnYe"
+          style="background-color: lawngreen !important;">
+          אישור</button>
+      </div>
+    </mat-card>
+  </div>
+</body>

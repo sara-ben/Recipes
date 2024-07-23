@@ -1,0 +1,21 @@
+<router-outlet></router-outlet>
+<body>
+  <div class="row">
+    <div  class="col-md-4 mt-5 mr-5" *ngFor="let item of recipes"> 
+        <div class="rec mt-5 mr-5">   
+            <img  src="http://localhost:52298/pictures/{{item.image}}" class="image">
+            <a [routerLink]="['/UpdateDetails',item.id]" class="link">{{item.name}}</a>
+        </div>  
+    </div>
+  </div>
+  </body>
+
+<!-- <p>
+  <button (click)="addRecipe()">הוספה</button>
+</p>
+<p>
+  <button (click)="deleteRecipe()">מחיקה</button>
+</p>
+<p>
+  <button (click)="updateRecipe()">עדכון</button>
+</p> -->

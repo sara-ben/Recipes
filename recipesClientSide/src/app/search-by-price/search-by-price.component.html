@@ -1,0 +1,88 @@
+<div class="all">
+
+  <!-- <div class="row">
+    <div class="col-md-3 marginAutoBtn"> -->
+  <!-- <br><br><br> -->
+
+
+  <!-- </div> -->
+  <!-- <div class="col-md-3 marginAuto">
+        <label>מחיר מנימלי:</label><br>
+        <input type="number" name="minPrice" [(ngModel)]="minPrice" min="0" >
+     </div>
+     <div class="col-md-3 marginAuto">
+       <label>מחיר מקסימלי:</label><br>
+       <input type="number" name="maxPrice" [(ngModel)]="maxPrice" min="0">
+     </div>
+     <div class="col-md-3 marginAuto">
+       <label>מספר מנות:</label><br>
+       <input type="number" name="numPos" [(ngModel)]="recipeService.numPos" min="0">
+     </div> -->
+  <div class="center" style="margin-top: 100px;">
+    <mat-form-field class="example-full-width" appearance="fill">
+      <mat-label>מחיר מנימלי:</mat-label>
+      <input type="number" class="inpt" matInput name="minPrice" value="ngModel" [(ngModel)]="minPrice" min="0">
+    </mat-form-field>
+
+    <mat-form-field class="example-full-width" appearance="fill">
+      <mat-label>מחיר מקסימלי:</mat-label>
+      <input type="number" class="inpt" matInput name="maxPrice" value="ngModel" [(ngModel)]="maxPrice" min="0">
+    </mat-form-field>
+
+    <mat-form-field class="example-full-width" appearance="fill">
+      <mat-label>מספר מנות</mat-label>
+      <input type="number" matInput name="numPos inpt" value="ngModel" [(ngModel)]="recipeService.numPos" min="0">
+    </mat-form-field>
+    <button class="btn btn-default" (click)="search()">
+      <i class="glyphicon glyphicon-search"></i>
+    </button>
+  </div>
+  <!-- <div class="row">
+    <div class="col-md-4 mt-5 mr-5" *ngFor="let item of recipeService.recipes">
+      <div class="rec mt-5 mr-5">
+        <img src="http://localhost:52298/pictures/{{item.image}}" class="image">
+        <a [routerLink]="['/watchRecipe',item.id]" class="link">{{item.name}}</a>
+      </div>
+    </div>
+  </div> -->
+
+
+  <!-- <p>
+  <mat-form-field appearance="fill" class="inpt">
+    <mat-label >Fill form field</mat-label>
+    <input class="inpt" matInput placeholder="Placeholder">
+    <mat-icon class="inpt" matSuffix >sentiment_very_satisfied</mat-icon>
+  </mat-form-field>
+</p> -->
+
+
+  <!-- </div> -->
+
+
+  <!-- <div class="row"> -->
+  <!-- *ngFor="let i of listPrice" -->
+  <!-- <div class="col-md-4 mt-5 mr-5" *ngFor="let item of recipeService.recipes; let i=index;" >
+              <div class="rec mt-5 mr-5">
+              <img src="http://localhost:52298/pictures/{{item.image}}" class="image" >
+              <a [routerLink]="['/watchRecipe',item.id]" class="link">{{item.name}}</a>
+            </div>
+          <div class="center"> המחיר ל {{recipeService.numPos}} מנות הוא  {{recipeService.listPrice[i]}} ש"ח</div>  
+       </div>
+      
+  </div> -->
+  <div class="row">
+    <div class="col-md-4 mt-5 mr-5" *ngFor="let item of recipeService.recipes; let i=index">
+      <div class="bigRec">
+        <div class="rec mt-5 mr-5">
+
+        <img src="http://localhost:52298/pictures/{{item.image}}" class="image">
+        <a [routerLink]="['/watchRecipe',item.id]" class="linkRecipe">{{item.name}}</a>
+        <br>
+        <div class="center price" *ngIf="recipeService.numPos"> המחיר ל {{recipeService.numPos}} מנות הוא {{recipeService.listPrice[i] |number}} ש"ח</div>
+      </div>
+    </div>
+    </div>
+  </div>
+
+  <!-- </body> -->
+</div>

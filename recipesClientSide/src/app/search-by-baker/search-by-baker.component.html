@@ -1,0 +1,37 @@
+<div class="all">
+  <form class="navbar-form navbar-right center"
+    style="margin-top: 100px; text-align: center; display: block; width: 100%;">
+
+    <div>
+      <mat-form-field appearance="fill">
+        <mat-label>בחר שף</mat-label>
+        <mat-select name="nameBaker1" [(ngModel)]="nameBaker">
+          <mat-option *ngFor="let item of bakers" (click)="search()" [value]="item.name">{{item.name}}</mat-option>
+        </mat-select>
+      </mat-form-field>
+    </div>
+
+
+    <!-- <div class="input-group">
+        <button class="btn btn-default" type="submit" (click)="search()">
+          <i class="glyphicon glyphicon-search"></i>
+        </button>
+      </div> -->
+
+  </form>
+
+  <div class="row">
+    <div class="col-md-4 mt-5 mr-5" *ngFor="let item of recipeService.recipes">
+      <div class="bigRec">
+      <div class="rec mt-5 mr-5">
+        <img src="http://localhost:52298/pictures/{{item.image}}" class="image">
+        <a [routerLink]="['/watchRecipe',item.id]" class="link" style="padding-top: 1vh;">{{item.name}}</a>
+      </div>
+    </div>
+    </div>
+  </div>
+
+
+
+</div>
+<!-- </body> -->

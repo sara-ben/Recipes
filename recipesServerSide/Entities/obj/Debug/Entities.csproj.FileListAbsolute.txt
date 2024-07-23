@@ -1,0 +1,242 @@
+D:\הפרויקט מתכונים שלנו\מעודכן ל14Server\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+D:\הפרויקט מתכונים שלנו\מעודכן ל14Server\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+D:\הפרויקט מתכונים שלנו\3Server\Entities\bin\Debug\Entities.dll
+D:\הפרויקט מתכונים שלנו\3Server\Entities\bin\Debug\Entities.pdb
+D:\הפרויקט מתכונים שלנו\3Server\Entities\bin\Debug\Dal.dll
+D:\הפרויקט מתכונים שלנו\3Server\Entities\bin\Debug\EntityFramework.dll
+D:\הפרויקט מתכונים שלנו\3Server\Entities\bin\Debug\Dal.pdb
+D:\הפרויקט מתכונים שלנו\3Server\Entities\bin\Debug\Dal.dll.config
+D:\הפרויקט מתכונים שלנו\3Server\Entities\bin\Debug\EntityFramework.xml
+D:\הפרויקט מתכונים שלנו\3Server\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+D:\הפרויקט מתכונים שלנו\3Server\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+D:\הפרויקט מתכונים שלנו\3Server\Entities\obj\Debug\Entities.csproj.CopyComplete
+D:\הפרויקט מתכונים שלנו\3Server\Entities\obj\Debug\Entities.dll
+D:\הפרויקט מתכונים שלנו\3Server\Entities\obj\Debug\Entities.pdb
+C:\Users\User\Desktop\הפרויקט!!!\3Server\Entities\bin\Debug\Entities.dll
+C:\Users\User\Desktop\הפרויקט!!!\3Server\Entities\bin\Debug\Entities.pdb
+C:\Users\User\Desktop\הפרויקט!!!\3Server\Entities\bin\Debug\Dal.dll
+C:\Users\User\Desktop\הפרויקט!!!\3Server\Entities\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\הפרויקט!!!\3Server\Entities\bin\Debug\Dal.pdb
+C:\Users\User\Desktop\הפרויקט!!!\3Server\Entities\bin\Debug\Dal.dll.config
+C:\Users\User\Desktop\הפרויקט!!!\3Server\Entities\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\הפרויקט!!!\3Server\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\User\Desktop\הפרויקט!!!\3Server\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\הפרויקט!!!\3Server\Entities\obj\Debug\Entities.csproj.CopyComplete
+C:\Users\User\Desktop\הפרויקט!!!\3Server\Entities\obj\Debug\Entities.dll
+C:\Users\User\Desktop\הפרויקט!!!\3Server\Entities\obj\Debug\Entities.pdb
+C:\Users\User\Desktop\pgggg\3Server\Entities\bin\Debug\Entities.dll
+C:\Users\User\Desktop\pgggg\3Server\Entities\bin\Debug\Entities.pdb
+C:\Users\User\Desktop\pgggg\3Server\Entities\bin\Debug\Dal.dll
+C:\Users\User\Desktop\pgggg\3Server\Entities\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\pgggg\3Server\Entities\bin\Debug\Dal.pdb
+C:\Users\User\Desktop\pgggg\3Server\Entities\bin\Debug\Dal.dll.config
+C:\Users\User\Desktop\pgggg\3Server\Entities\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\pgggg\3Server\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\User\Desktop\pgggg\3Server\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\pgggg\3Server\Entities\obj\Debug\Entities.csproj.CopyComplete
+C:\Users\User\Desktop\pgggg\3Server\Entities\obj\Debug\Entities.dll
+C:\Users\User\Desktop\pgggg\3Server\Entities\obj\Debug\Entities.pdb
+C:\Users\User\Desktop\2408\3Server\Entities\bin\Debug\Entities.dll
+C:\Users\User\Desktop\2408\3Server\Entities\bin\Debug\Entities.pdb
+C:\Users\User\Desktop\2408\3Server\Entities\bin\Debug\Dal.dll
+C:\Users\User\Desktop\2408\3Server\Entities\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\2408\3Server\Entities\bin\Debug\Dal.pdb
+C:\Users\User\Desktop\2408\3Server\Entities\bin\Debug\Dal.dll.config
+C:\Users\User\Desktop\2408\3Server\Entities\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\2408\3Server\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\User\Desktop\2408\3Server\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\2408\3Server\Entities\obj\Debug\Entities.csproj.CopyComplete
+C:\Users\User\Desktop\2408\3Server\Entities\obj\Debug\Entities.dll
+C:\Users\User\Desktop\2408\3Server\Entities\obj\Debug\Entities.pdb
+C:\Users\User\Desktop\2708\3Server\Entities\bin\Debug\Entities.dll
+C:\Users\User\Desktop\2708\3Server\Entities\bin\Debug\Entities.pdb
+C:\Users\User\Desktop\2708\3Server\Entities\bin\Debug\Dal.dll
+C:\Users\User\Desktop\2708\3Server\Entities\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\2708\3Server\Entities\bin\Debug\Dal.pdb
+C:\Users\User\Desktop\2708\3Server\Entities\bin\Debug\Dal.dll.config
+C:\Users\User\Desktop\2708\3Server\Entities\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\2708\3Server\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\User\Desktop\2708\3Server\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\2708\3Server\Entities\obj\Debug\Entities.csproj.CopyComplete
+C:\Users\User\Desktop\2708\3Server\Entities\obj\Debug\Entities.dll
+C:\Users\User\Desktop\2708\3Server\Entities\obj\Debug\Entities.pdb
+C:\Users\User\Desktop\3108\3Server\Entities\bin\Debug\Entities.dll
+C:\Users\User\Desktop\3108\3Server\Entities\bin\Debug\Entities.pdb
+C:\Users\User\Desktop\3108\3Server\Entities\bin\Debug\Dal.dll
+C:\Users\User\Desktop\3108\3Server\Entities\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\3108\3Server\Entities\bin\Debug\Dal.pdb
+C:\Users\User\Desktop\3108\3Server\Entities\bin\Debug\Dal.dll.config
+C:\Users\User\Desktop\3108\3Server\Entities\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\3108\3Server\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\User\Desktop\3108\3Server\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\3108\3Server\Entities\obj\Debug\Entities.csproj.CopyComplete
+C:\Users\User\Desktop\3108\3Server\Entities\obj\Debug\Entities.dll
+C:\Users\User\Desktop\3108\3Server\Entities\obj\Debug\Entities.pdb
+C:\Users\User\Desktop\0409\S0409\Entities\bin\Debug\Entities.dll
+C:\Users\User\Desktop\0409\S0409\Entities\bin\Debug\Entities.pdb
+C:\Users\User\Desktop\0409\S0409\Entities\bin\Debug\Dal.dll
+C:\Users\User\Desktop\0409\S0409\Entities\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\0409\S0409\Entities\bin\Debug\Dal.pdb
+C:\Users\User\Desktop\0409\S0409\Entities\bin\Debug\Dal.dll.config
+C:\Users\User\Desktop\0409\S0409\Entities\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\0409\S0409\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\User\Desktop\0409\S0409\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\0409\S0409\Entities\obj\Debug\Entities.csproj.CopyComplete
+C:\Users\User\Desktop\0409\S0409\Entities\obj\Debug\Entities.dll
+C:\Users\User\Desktop\0409\S0409\Entities\obj\Debug\Entities.pdb
+C:\Users\User\Desktop\0909\S0409\Entities\bin\Debug\Entities.dll
+C:\Users\User\Desktop\0909\S0409\Entities\bin\Debug\Entities.pdb
+C:\Users\User\Desktop\0909\S0409\Entities\bin\Debug\Dal.dll
+C:\Users\User\Desktop\0909\S0409\Entities\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\0909\S0409\Entities\bin\Debug\Dal.pdb
+C:\Users\User\Desktop\0909\S0409\Entities\bin\Debug\Dal.dll.config
+C:\Users\User\Desktop\0909\S0409\Entities\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\0909\S0409\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\User\Desktop\0909\S0409\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\0909\S0409\Entities\obj\Debug\Entities.csproj.CopyComplete
+C:\Users\User\Desktop\0909\S0409\Entities\obj\Debug\Entities.dll
+C:\Users\User\Desktop\0909\S0409\Entities\obj\Debug\Entities.pdb
+C:\Users\User\Desktop\1110\S1110\Entities\bin\Debug\Entities.dll
+C:\Users\User\Desktop\1110\S1110\Entities\bin\Debug\Entities.pdb
+C:\Users\User\Desktop\1110\S1110\Entities\bin\Debug\Dal.dll
+C:\Users\User\Desktop\1110\S1110\Entities\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\1110\S1110\Entities\bin\Debug\Dal.pdb
+C:\Users\User\Desktop\1110\S1110\Entities\bin\Debug\Dal.dll.config
+C:\Users\User\Desktop\1110\S1110\Entities\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\1110\S1110\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\User\Desktop\1110\S1110\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\1110\S1110\Entities\obj\Debug\Entities.csproj.CopyComplete
+C:\Users\User\Desktop\1110\S1110\Entities\obj\Debug\Entities.dll
+C:\Users\User\Desktop\1110\S1110\Entities\obj\Debug\Entities.pdb
+C:\Users\User\Desktop\3110\S3110\Entities\bin\Debug\Entities.dll
+C:\Users\User\Desktop\3110\S3110\Entities\bin\Debug\Entities.pdb
+C:\Users\User\Desktop\3110\S3110\Entities\bin\Debug\Dal.dll
+C:\Users\User\Desktop\3110\S3110\Entities\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\3110\S3110\Entities\bin\Debug\Dal.pdb
+C:\Users\User\Desktop\3110\S3110\Entities\bin\Debug\Dal.dll.config
+C:\Users\User\Desktop\3110\S3110\Entities\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\3110\S3110\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\User\Desktop\3110\S3110\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\3110\S3110\Entities\obj\Debug\Entities.csproj.CopyComplete
+C:\Users\User\Desktop\3110\S3110\Entities\obj\Debug\Entities.dll
+C:\Users\User\Desktop\3110\S3110\Entities\obj\Debug\Entities.pdb
+C:\Users\User\Desktop\אפים\2211\S0911\Entities\bin\Debug\Entities.dll
+C:\Users\User\Desktop\אפים\2211\S0911\Entities\bin\Debug\Entities.pdb
+C:\Users\User\Desktop\אפים\2211\S0911\Entities\bin\Debug\Dal.dll
+C:\Users\User\Desktop\אפים\2211\S0911\Entities\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\אפים\2211\S0911\Entities\bin\Debug\Dal.pdb
+C:\Users\User\Desktop\אפים\2211\S0911\Entities\bin\Debug\Dal.dll.config
+C:\Users\User\Desktop\אפים\2211\S0911\Entities\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\אפים\2211\S0911\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\User\Desktop\אפים\2211\S0911\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\אפים\2211\S0911\Entities\obj\Debug\Entities.csproj.CopyComplete
+C:\Users\User\Desktop\אפים\2211\S0911\Entities\obj\Debug\Entities.dll
+C:\Users\User\Desktop\אפים\2211\S0911\Entities\obj\Debug\Entities.pdb
+C:\Users\User\Desktop\2607\S0911\Entities\bin\Debug\Entities.dll
+C:\Users\User\Desktop\2607\S0911\Entities\bin\Debug\Entities.pdb
+C:\Users\User\Desktop\2607\S0911\Entities\bin\Debug\Dal.dll
+C:\Users\User\Desktop\2607\S0911\Entities\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\2607\S0911\Entities\bin\Debug\Dal.pdb
+C:\Users\User\Desktop\2607\S0911\Entities\bin\Debug\Dal.dll.config
+C:\Users\User\Desktop\2607\S0911\Entities\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\2607\S0911\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\User\Desktop\2607\S0911\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\2607\S0911\Entities\obj\Debug\Entities.csproj.CopyComplete
+C:\Users\User\Desktop\2607\S0911\Entities\obj\Debug\Entities.dll
+C:\Users\User\Desktop\2607\S0911\Entities\obj\Debug\Entities.pdb
+C:\Users\User\Desktop\0812\S0911\Entities\bin\Debug\Entities.dll
+C:\Users\User\Desktop\0812\S0911\Entities\bin\Debug\Entities.pdb
+C:\Users\User\Desktop\0812\S0911\Entities\bin\Debug\Dal.dll
+C:\Users\User\Desktop\0812\S0911\Entities\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\0812\S0911\Entities\bin\Debug\Dal.pdb
+C:\Users\User\Desktop\0812\S0911\Entities\bin\Debug\Dal.dll.config
+C:\Users\User\Desktop\0812\S0911\Entities\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\0812\S0911\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\User\Desktop\0812\S0911\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\0812\S0911\Entities\obj\Debug\Entities.csproj.CopyComplete
+C:\Users\User\Desktop\0812\S0911\Entities\obj\Debug\Entities.dll
+C:\Users\User\Desktop\0812\S0911\Entities\obj\Debug\Entities.pdb
+C:\Users\User\Desktop\0812\server\Entities\bin\Debug\Entities.dll
+C:\Users\User\Desktop\0812\server\Entities\bin\Debug\Entities.pdb
+C:\Users\User\Desktop\0812\server\Entities\bin\Debug\Dal.dll
+C:\Users\User\Desktop\0812\server\Entities\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\0812\server\Entities\bin\Debug\Dal.pdb
+C:\Users\User\Desktop\0812\server\Entities\bin\Debug\Dal.dll.config
+C:\Users\User\Desktop\0812\server\Entities\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\0812\server\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\User\Desktop\0812\server\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\0812\server\Entities\obj\Debug\Entities.csproj.CopyComplete
+C:\Users\User\Desktop\0812\server\Entities\obj\Debug\Entities.dll
+C:\Users\User\Desktop\0812\server\Entities\obj\Debug\Entities.pdb
+C:\Users\User\Desktop\1001\server\Entities\bin\Debug\Entities.dll
+C:\Users\User\Desktop\1001\server\Entities\bin\Debug\Entities.pdb
+C:\Users\User\Desktop\1001\server\Entities\bin\Debug\Dal.dll
+C:\Users\User\Desktop\1001\server\Entities\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\1001\server\Entities\bin\Debug\Dal.pdb
+C:\Users\User\Desktop\1001\server\Entities\bin\Debug\Dal.dll.config
+C:\Users\User\Desktop\1001\server\Entities\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\1001\server\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\User\Desktop\1001\server\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\1001\server\Entities\obj\Debug\Entities.csproj.CopyComplete
+C:\Users\User\Desktop\1001\server\Entities\obj\Debug\Entities.dll
+C:\Users\User\Desktop\1001\server\Entities\obj\Debug\Entities.pdb
+C:\Users\User\Desktop\1501\server1501\Entities\bin\Debug\Entities.dll
+C:\Users\User\Desktop\1501\server1501\Entities\bin\Debug\Entities.pdb
+C:\Users\User\Desktop\1501\server1501\Entities\bin\Debug\Dal.dll
+C:\Users\User\Desktop\1501\server1501\Entities\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\1501\server1501\Entities\bin\Debug\Dal.pdb
+C:\Users\User\Desktop\1501\server1501\Entities\bin\Debug\Dal.dll.config
+C:\Users\User\Desktop\1501\server1501\Entities\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\1501\server1501\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\User\Desktop\1501\server1501\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\1501\server1501\Entities\obj\Debug\Entities.csproj.CopyComplete
+C:\Users\User\Desktop\1501\server1501\Entities\obj\Debug\Entities.dll
+C:\Users\User\Desktop\1501\server1501\Entities\obj\Debug\Entities.pdb
+C:\Users\User\Desktop\3101\server1501\Entities\bin\Debug\Entities.dll
+C:\Users\User\Desktop\3101\server1501\Entities\bin\Debug\Entities.pdb
+C:\Users\User\Desktop\3101\server1501\Entities\bin\Debug\Dal.dll
+C:\Users\User\Desktop\3101\server1501\Entities\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\3101\server1501\Entities\bin\Debug\Dal.pdb
+C:\Users\User\Desktop\3101\server1501\Entities\bin\Debug\Dal.dll.config
+C:\Users\User\Desktop\3101\server1501\Entities\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\3101\server1501\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\User\Desktop\3101\server1501\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\3101\server1501\Entities\obj\Debug\Entities.csproj.CopyComplete
+C:\Users\User\Desktop\3101\server1501\Entities\obj\Debug\Entities.dll
+C:\Users\User\Desktop\3101\server1501\Entities\obj\Debug\Entities.pdb
+C:\Users\User\Desktop\1103\server1103\Entities\bin\Debug\Entities.dll
+C:\Users\User\Desktop\1103\server1103\Entities\bin\Debug\Entities.pdb
+C:\Users\User\Desktop\1103\server1103\Entities\bin\Debug\Dal.dll
+C:\Users\User\Desktop\1103\server1103\Entities\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\1103\server1103\Entities\bin\Debug\Dal.pdb
+C:\Users\User\Desktop\1103\server1103\Entities\bin\Debug\Dal.dll.config
+C:\Users\User\Desktop\1103\server1103\Entities\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\1103\server1103\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\User\Desktop\1103\server1103\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\1103\server1103\Entities\obj\Debug\Entities.csproj.CopyComplete
+C:\Users\User\Desktop\1103\server1103\Entities\obj\Debug\Entities.dll
+C:\Users\User\Desktop\1103\server1103\Entities\obj\Debug\Entities.pdb
+C:\Users\User\Desktop\פרויקט גמר     מהט\פרויקט מתכונים\אפים\1103\server1103\Entities\bin\Debug\Entities.dll
+C:\Users\User\Desktop\פרויקט גמר     מהט\פרויקט מתכונים\אפים\1103\server1103\Entities\bin\Debug\Entities.pdb
+C:\Users\User\Desktop\פרויקט גמר     מהט\פרויקט מתכונים\אפים\1103\server1103\Entities\bin\Debug\Dal.dll
+C:\Users\User\Desktop\פרויקט גמר     מהט\פרויקט מתכונים\אפים\1103\server1103\Entities\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\פרויקט גמר     מהט\פרויקט מתכונים\אפים\1103\server1103\Entities\bin\Debug\Dal.pdb
+C:\Users\User\Desktop\פרויקט גמר     מהט\פרויקט מתכונים\אפים\1103\server1103\Entities\bin\Debug\Dal.dll.config
+C:\Users\User\Desktop\פרויקט גמר     מהט\פרויקט מתכונים\אפים\1103\server1103\Entities\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\פרויקט גמר     מהט\פרויקט מתכונים\אפים\1103\server1103\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\User\Desktop\פרויקט גמר     מהט\פרויקט מתכונים\אפים\1103\server1103\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\פרויקט גמר     מהט\פרויקט מתכונים\אפים\1103\server1103\Entities\obj\Debug\Entities.csproj.CopyComplete
+C:\Users\User\Desktop\פרויקט גמר     מהט\פרויקט מתכונים\אפים\1103\server1103\Entities\obj\Debug\Entities.dll
+C:\Users\User\Desktop\פרויקט גמר     מהט\פרויקט מתכונים\אפים\1103\server1103\Entities\obj\Debug\Entities.pdb
+C:\Users\User\Desktop\פרויקט סופי\server1103\Entities\bin\Debug\Entities.dll
+C:\Users\User\Desktop\פרויקט סופי\server1103\Entities\bin\Debug\Entities.pdb
+C:\Users\User\Desktop\פרויקט סופי\server1103\Entities\bin\Debug\Dal.dll
+C:\Users\User\Desktop\פרויקט סופי\server1103\Entities\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\פרויקט סופי\server1103\Entities\bin\Debug\Dal.pdb
+C:\Users\User\Desktop\פרויקט סופי\server1103\Entities\bin\Debug\Dal.dll.config
+C:\Users\User\Desktop\פרויקט סופי\server1103\Entities\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\פרויקט סופי\server1103\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\פרויקט סופי\server1103\Entities\obj\Debug\Entities.csproj.CopyComplete
+C:\Users\User\Desktop\פרויקט סופי\server1103\Entities\obj\Debug\Entities.dll
+C:\Users\User\Desktop\פרויקט סופי\server1103\Entities\obj\Debug\Entities.pdb
+C:\Users\User\Desktop\פרויקט סופי\server1103\Entities\obj\Debug\Entities.csproj.AssemblyReference.cache

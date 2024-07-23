@@ -1,0 +1,46 @@
+
+
+/* .all{
+    direction: rtl;
+    width: 90%;
+    float: left;
+    margin-top: 100px;
+    z-index: -1;
+    padding-right: 5vw;
+} */
+.all{
+    direction: rtl;
+    width: 85%;
+    float: left;
+    margin-top: 100px;
+    min-height: 670px;
+
+}
+
+.image{
+    width: 150px;
+    height: auto;
+    direction: rtl;
+    float: right;
+}
+
+hr{
+    height:2px;
+    color: #823939;
+    width: 1000px;
+    background-color:#823939 ;
+
+}
+
+.link{
+    color:#823939;
+    font-weight: bold;
+    font-size: 30px;
+    float: right;
+}
+.avg{
+    font-weight: bold;
+    font-size: 40px;
+    color:#823939;
+    text-align: center;
+}

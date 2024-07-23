@@ -1,0 +1,30 @@
+
+
+tr{
+height: 50px !important;
+justify-content:center !important;
+
+}
+td{
+  width: 100px !important;
+  border-left: 0px!important;
+  border-right: 0px!important;
+}
+.img{
+   margin-right: 90px; 
+}
+.link{
+    font-size: 1.5vw; color:#fb4c66; font-family: cursive; font-weight: bold;
+}
+.table{
+       margin:auto;
+       margin-top: 20px;
+       padding:auto ;
+}
+.all{
+    background-color:  #ffebec;
+    min-height:100vh;   
+  }
+  .searchInput{
+    margin-top:20px;
+  }

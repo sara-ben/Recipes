@@ -1,0 +1,30 @@
+<body>
+  <div style="height: 30px;"></div>
+
+  <div class="input-group mb-3" style=" margin:auto;">
+    <input class="searchInput form-control" type="text" id="myInput" (change)="myFunction()" placeholder="Search for names.." title="Type in a name">
+   </div>
+
+  <div class="col-4" style="margin-top:180px;">
+    <div class="container center">
+      <table id="myTable" class="table table-bordered" style="margin-top: 1px;">
+        <thead>
+          <tr class="danger ">
+            <th class="f20">מוצר</th>
+            <th class="f20">מחיר ממוצע ל 100 גרם </th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let item of products" class="warning">
+            <td (click)="update(item.avgPrice,item)">{{item.name}}</td>
+            <td (click)="update(item.avgPrice,item)"> {{item.avgPrice|number}} ₪</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <app-update-price-modal *ngIf="productService.flag==true"></app-update-price-modal>
+
+  <router-outlet></router-outlet>
+</body>

@@ -1,0 +1,26 @@
+<body>
+  
+  <div id="div1">
+  <p class="title">שלום לך משתמש יקר</p>
+<p>אנו שמחים שהצטרפתה לתוכניתינו, ומקווים שתהנה</p>
+<p>מעת הצטרפותך אלינו כמשתמש תוכל לקבל מייל בכל עת שיתווסף מתכון חדש</p>
+<p>כמו כן, תוכל לדרג את המתכונים האהובים עליך</p>
+<p>לשתף את החברים</p>
+<p>ובעתיד, אולי גם להצרף אלינו כאופה</p>
+<p>מקווים שתהנה....</p>
+<p>טעים בקליק, איתך תמיד</p>
+<a href="" [routerLink]="['/LogIn/1']"> <button class="btn btn-info button1" ><i class="fa fa-arrow-left white marginR"></i> להמשך </button></a>
+<button class="btn btn-info button2" [routerLink]="['/chooseLogIn']">הקודם<i class="fa fa-arrow-right white marginL"></i> </button>
+  <button class="btn btn-info d-flex justify-content-center align-items-center button3" [routerLink]="['/']"><i class="fa fa-home fa-2x white"></i></button>
+
+</div>
+<div id="div2" class="d-flex justify-content-center align-items-center">
+  <div class="divStep divStepF" ><button class="step stepF "[routerLink]="['/chooseLogIn']" >1</button></div>
+  <div class="line"></div>
+  <div class="divStep" ><button class="step stepC">2</button></div>
+  <div class="line"></div>
+  <div class="divStep" ><button class="step" [routerLink]="['/LogIn/1']">3</button></div>   
+</div>
+
+</body>
+

@@ -1,0 +1,24 @@
+<router-outlet></router-outlet>
+
+<body class="all">
+  <div class="row" dir="rtl">
+    <button class="btn btn-default newR" [routerLink]="['/AddRecipe']">הוסף +</button>
+    <div class=" mt-5 mr-5" *ngFor="let item of recipes">
+      <div class="rec mt-5 mr-5 row" style="height: 155px; ">
+        <img src="http://localhost:52298/pictures/{{item.image}}" class="image col-md-1" dir="rtl">
+        <span>
+          <a [routerLink]="['/watchRecipe',item.id]" class="link col-md-3" dir="rtl">{{item.name}}</a>
+          <br>
+          <span class="gray">זמן הכנה: {{item.time}}</span>
+          <br>
+          <span class="gray">מספר מנות: {{item.numPortion}}</span>
+        </span>
+        <span class="col-md-7"></span>
+        <span class="col-md-2"><i class="fa fa-edit fa-2x" style="color: #823939; margin-top: 80px; margin-right: 30px;"
+            [routerLink]="['/UpdateDetails',item.id]"></i></span>
+      </div>
+      <hr>
+    </div>
+  </div>
+
+</body>

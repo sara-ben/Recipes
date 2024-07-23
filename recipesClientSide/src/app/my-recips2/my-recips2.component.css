@@ -1,0 +1,54 @@
+/* .rec{
+    background-color: gray;
+    height: 300px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 40px;
+}
+ */
+.link{
+    color:#823939;
+    font-weight: bold;
+    font-size: 30px;
+    float: right;
+}
+
+.image{
+    width: auto;
+    height: 150px;
+    direction: rtl;
+    float: right;
+}
+
+body{
+    min-height: 670px;
+}   
+hr{
+    height:2px;
+    color: #823939;
+    width: 90%;
+    background-color:#823939 ;
+
+}
+.gray{
+    color: rgb(116, 114, 114);
+    font-size: 15px;
+}
+
+.newR{
+   background-color:#f07171 !important; 
+   margin-right: 70vw;
+   font-size: 30px;
+   height: 60px;
+   width: 120px;
+   border-radius: 4px;
+    
+}
+.all{
+    direction: rtl;
+    width: 85%;
+    float: left;
+    margin-top: 100px;
+}

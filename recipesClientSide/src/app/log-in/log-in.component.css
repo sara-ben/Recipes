@@ -1,0 +1,190 @@
+body{
+  background-color: rgb(255, 123, 145);
+  min-height: 100vh;
+}   
+.input2{
+  width:300px;
+  height: 40px;
+  color: rgb(255, 123, 145);
+  background-color:gray 
+}
+.marginAuto{
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+  align-content: center;
+}
+.sub{
+  width:100px;
+  height: 30px;
+  color: rgb(255, 123, 145);
+  background-color:gray ;
+}
+label
+{
+  color: rgb(83, 78, 78); 
+}
+
+
+
+
+
+
+
+
+
+section {
+  display: table;
+}
+
+.example-label {
+  display: table-cell;
+  font-size: 14px;
+  margin-left: 8px;
+  min-width: 120px;
+}
+
+.example-button-row {
+  display: table-cell;
+  width: 490px;
+}
+
+.example-button-row .mat-button-base {
+  margin: 8px 8px 8px 0;
+}
+
+.example-flex-container {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.example-button-container {
+  display: flex;
+  justify-content: center;
+  width: 120px;
+}
+form{
+  text-align: center;
+
+}
+input{
+  margin-left: auto;
+  margin-right: auto;
+}
+#div1{
+  text-align: center;
+  line-height: 40px;
+  /* margin: 60px; */
+  border-radius: 50px;
+  background-color: white;
+  margin-left: 40px;
+
+padding-top: 30px;
+  height: 680px;
+  top: 30px;
+  position: relative;
+  width: 77%;
+  float: left;
+}
+#div2{
+
+  border-radius: 50px;
+  background-color: white;
+  margin-left: 15px;
+  margin-right: 40px;
+padding-top: 30px;
+  height: 680px;
+  top: 30px;
+  position: relative;
+  width: 16%;
+  float: right;
+}
+.stepF{
+background-color: #5bc0de !important;
+}
+.stepC{
+border-width: 5px !important;
+}
+.title{
+  padding-top: 30px;
+  font-weight: bold;
+  font-size: 60px;
+  padding-bottom: 30px;
+}
+p{
+  font-size: 20px;
+  font-weight: bold;
+}
+.button1{
+  width: 150px;
+  height: 50px;
+  font-size: 25px;
+  /* float: left; */
+  position: fixed;
+  bottom: 80px;
+  left:110px;
+}
+.button2{
+width: 150px;
+height: 50px;
+font-size: 25px;
+/* float: left; */
+position: fixed;
+bottom: 80px;
+left:280px;
+}
+.button3{
+right:370px; 
+border-radius: 50px;
+width: 50px;
+height: 50px;
+position: fixed;
+bottom: 80px;
+}
+.step{
+height: 42px;
+width: 42px;
+border-radius: 50px;
+background-color: rgb(228, 227, 227);
+margin-left: auto;
+margin-right: auto;
+
+}
+.divStep{
+height: 42px;
+width: 42px;
+margin-left: auto;
+margin-right: auto;
+border-radius: 50px;
+}
+.divStepF{
+margin-top: 2vw;
+}
+.line{
+height: 200px;
+width: 10px;
+background-color: rgb(228, 227, 227);
+border-radius: 50px;
+border: 0px;
+margin-left: auto;
+margin-right: auto;
+}
+.line2{
+height: 130px !important;
+}
+
+
+body{
+background-color:rgb(179, 179, 179); 
+height: 751px;
+}
+.white{
+color: white;
+}
+.marginR{
+margin-right: 0.5vw;
+}
+.marginL{
+margin-left: 0.7vw;
+}

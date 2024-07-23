@@ -1,0 +1,17 @@
+
+<div class="center all">
+  <h2 style="margin-top: 100px; ">זמן הכנה מקסימלי</h2>
+  <input type="time" name="maxTime" [(ngModel)]="maxTime" (change)="search()">
+ 
+  <div class="row mr-5">
+    <div class="col-md-4 mr-5" *ngFor="let item of recipeService.recipes">
+      <div class="bigRec">
+      <div class="rec mt-5 mr-5">
+        <img src="http://localhost:52298/pictures/{{item.image}}" class="image">
+        <a [routerLink]="['/watchRecipe',item.id]" class="link">{{item.name}}</a>
+        <div> זמן הכנה: {{item.time}} </div>
+      </div>
+    </div>
+  </div>
+</div>
+</div>

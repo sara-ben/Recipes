@@ -1,0 +1,76 @@
+
+<body dir="rtl" [ngClass]="{'body':this.router.url==='/'}">
+ <div class="body">
+  <!-- <div class="topnav ">
+
+   
+
+    <span id="nameUser" dir="rtl" *ngIf="this.bakerService.selected.name">
+      <img *ngIf="bakerService.selected.logo" src="http://localhost:52298/logo/{{bakerService.selected.logo}}"
+      
+        height="50px" width="50px" />
+      {{bakerService.selected.name}}
+    </span>
+    <span id="nameUser" dir="rtl" *ngIf="!this.bakerService.selected.name">{{userS.selected.name}}</span>
+  </div> -->
+  <div class="row">
+  <div class="col-md-3 name">
+  <span id="nameUser" dir="rtl" *ngIf="this.bakerService.selected.name">
+    <img *ngIf="bakerService.selected.logo" src="http://localhost:52298/logo/{{bakerService.selected.logo}}"
+    
+      height="50px" width="50px" />
+    {{bakerService.selected.name}}
+  </span>
+</div>
+  <div class=" col-md-2.5 rightSide">
+    <li class="dropdown" style="margin-top: 10vh;">
+      <button class="dropbtn">חיפוש מתכון</button>
+      <div class="dropdown-content">
+        <a [routerLink]="['/SearchByPrice']">חיפוש לפי מחיר</a>
+        <a [routerLink]="['/SearchByBaker']">חיפוש לפי שף</a>
+        <a [routerLink]="['/SearchByCategory']">חיפוש לפי סיווג מתכון</a>
+        <a [routerLink]="['/SearchByGrade']">חיפוש לפי דרוג ממוצע</a>
+        <a [routerLink]="['/SearchByTime']">חיפוש לפי זמן הכנה</a>
+   
+      </div>
+    </li>
+    <li class="dropdown" *ngIf="this.userS.status==2" [routerLink]="['/MyRecips2']">
+      <button class="dropbtn">המתכונים שלי</button>
+    </li>
+    <li class="dropdown">
+      <button class="dropbtn">דירוגים</button>
+      <div class="dropdown-content">
+        <a [routerLink]="['/AllGrade']">צפיה בכל דירוגי המתכונים</a>
+        <a [routerLink]="['/BakersGraph']">גרף השפים</a>
+
+        <a *ngIf="this.userS.status==2||this.userS.status==1" [routerLink]="['/AvgGrade']">הדירוגים שלי</a>
+        <a [routerLink]="['/favoriteRecipe']">המתכון האהוב ביותר</a>
+        <a [routerLink]="['/newLeaderBaker']">סולם השפים</a>
+      </div>
+    </li>
+    <!-- <li class="dropdown" *ngIf="this.userS.status==1">
+      <button class="dropbtn">החברים במערכת</button>
+      <div class="dropdown-content">
+        <a>מאגר המשתמשים</a>
+        <a>מאגר השפים</a>
+      </div>
+    </li> -->
+    <li class="dropdown" *ngIf="this.userS.status">
+      <button class="dropbtn">שתף</button>
+      <div class="dropdown-content">
+        <a [routerLink]="['/AddGrade']">הוספת דירוג</a>
+        <a [routerLink]="['/updatePrice']">עדכון מחיר מוצר</a>
+      </div>
+    </li>
+
+  </div>
+  <div class="leftSide">
+
+    <i class="fa fa-sign-in fa-2x  leftSideIcon" [routerLink]="['/identifaction']" style="margin-top:70vh"></i>
+    <i class="fa fa-sign-out fa-2x leftSideIcon" *ngIf="this.userS.status>0" (click)="logOff()"></i>
+    <i class="fa fa-user fa-2x  leftSideIcon" (click)="chooseLogIn()"></i>
+   
+  </div>
+</div>
+  <router-outlet></router-outlet></div>
+</body>

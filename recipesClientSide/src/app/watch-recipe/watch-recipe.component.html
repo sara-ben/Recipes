@@ -1,0 +1,92 @@
+<!-- <div style="height: 120px;"></div> -->
+<!-- <body> -->
+<div class="all">
+  <div class="row header">
+    <div class="col-md-7 h100">
+      <img src="http://localhost:52298/pictures/{{currentRecipe.image}}" style="width:100%">
+    </div>
+    <div class="col-md-5 blck hPic">
+      <p class="a">{{currentRecipe.name}}</p>
+      <!-- <p class="a2">מאת: {{currentBaker.name}}</p> -->
+    </div>
+  </div>
+
+  <br>
+  <br><br>
+  <!--  -->
+  <!-- <div class="alert alert-danger blck"> -->
+    <!-- <h2>זמן הכנה</h2> -->
+    <div class="r1 row">
+    <div class="col-md-4 vl">
+   <div class="time"> <span>
+    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-watch" viewBox="0 0 16 16">
+      <path d="M8.5 5a.5.5 0 0 0-1 0v2.5H6a.5.5 0 0 0 0 1h2a.5.5 0 0 0 .5-.5V5z"/>
+      <path d="M5.667 16C4.747 16 4 15.254 4 14.333v-1.86A5.985 5.985 0 0 1 2 8c0-1.777.772-3.374 2-4.472V1.667C4 .747 4.746 0 5.667 0h4.666C11.253 0 12 .746 12 1.667v1.86a5.99 5.99 0 0 1 1.918 3.48.502.502 0 0 1 .582.493v1a.5.5 0 0 1-.582.493A5.99 5.99 0 0 1 12 12.473v1.86c0 .92-.746 1.667-1.667 1.667H5.667zM13 8A5 5 0 1 0 3 8a5 5 0 0 0 10 0z"/>
+    </svg></span>
+    
+    <p>זמן הכנה</p>
+    <span> {{currentRecipe.time}}</span>
+
+   </div >
+
+  </div>
+  <div class="col-md-4 vl">
+    {{currentRecipe.numPortion}} מנות 
+</div>
+<div class="col-md-4 vl">
+ מאת: {{currentBaker.name}} 
+</div>
+</div>
+
+  <!-- </div> -->
+  <br>
+  <hr class="hr1">
+  <h2>רכיבים:</h2>
+  <!-- <h4>{{currentRecipe.numPortion}} מנות </h4> -->
+  <br>
+
+  <div class="row">
+    <div class="col-md-5 blck h100 marginAuto">
+      <h2>אופן ההכנה:</h2>
+      <br>
+      <h4> {{currentRecipe.instruction}}</h4>
+    </div>
+
+
+
+    <div class="col-md-5 h100 marginAuto">
+
+     
+      <div class="container center">
+
+        <div class="row">
+          <ul  *ngFor="let item of listSearchRI">
+            <li>{{item.amount}} גרם {{item.name}}</li>
+          </ul>
+        </div>
+      
+
+        <!-- <table class="table table-bordered">
+          <thead>
+            <tr>
+              <th>קוד</th>
+              <th>מוצר</th>
+              <th>מידה</th>
+              <th>כמות</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr *ngFor="let item of listSearchRI" class="blck">
+              <td>{{item.id}}</td>
+              <td>{{item.name}}</td>
+              <td> גרם </td>
+              <td> {{item.amount}} </td>
+
+            </tr>
+          </tbody>
+        </table> -->
+      </div>
+    </div>
+
+    
+  </div>

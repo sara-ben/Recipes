@@ -1,0 +1,156 @@
+body{
+    background-color: rgb(255, 123, 145);
+    min-height: 670px;
+}   
+.input2{
+    width:300px;
+    height: 40px;
+    color: rgb(255, 123, 145);
+    background-color:gray 
+}
+.sub{
+    width:100px;
+    height: 30px;
+    color: rgb(255, 123, 145);
+    background-color:gray ;
+}
+.cen
+{
+    align-content: center;
+    margin-left:auto;
+    margin-right:auto;
+}
+.marginAuto{
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    align-content: center;
+}
+a
+{
+    text-align: center;
+    color: rgb(83, 78, 78);
+}
+label
+{
+    color: rgb(83, 78, 78); 
+}
+
+
+
+
+
+
+
+
+#div1{
+    text-align: center;
+    line-height: 40px;
+    /* margin: 60px; */
+    border-radius: 50px;
+    background-color: white;
+    margin-left: 40px;
+
+padding-top: 30px;
+    height: 680px;
+    top: 30px;
+    position: relative;
+    width: 95%;
+    float: left;
+}
+#div2{
+
+    border-radius: 50px;
+    background-color: white;
+    margin-left: 15px;
+    margin-right: 40px;
+padding-top: 30px;
+    height: 680px;
+    top: 30px;
+    position: relative;
+    width: 16%;
+    float: right;
+}
+.title{
+    padding-top: 30px;
+    font-weight: bold;
+    font-size: 60px;
+    padding-bottom: 30px;
+}
+p{
+    font-size: 20px;
+    font-weight: bold;
+}
+.button1{
+    width: 150px;
+    height: 50px;
+    font-size: 25px;
+    /* float: left; */
+    position: fixed;
+    bottom: 80px;
+    left:110px;
+}
+.button2{
+    width: 150px;
+    height: 50px;
+    font-size: 25px;
+    /* float: left; */
+    position: fixed;
+    bottom: 80px;
+    left:280px;
+}
+.button3{
+    right:70px; 
+    border-radius: 50px;
+    width: 50px;
+    height: 50px;
+    position: fixed;
+    bottom: 80px;
+}
+body{
+background-color:rgb(179, 179, 179); 
+height: 100vh;
+}
+.step{
+    height: 42px;
+    width: 42px;
+    border-radius: 50px;
+    background-color: rgb(228, 227, 227);
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.divStep{
+    height: 42px;
+    width: 42px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50px;
+}
+.divStepF{
+    margin-top: 2vw;
+}
+.stepF{
+    background-color: #5bc0de;
+}
+.stepC{
+    border-width: 5px !important;
+  }
+.line{
+    height: 130px;
+    width: 10px;
+    background-color: rgb(228, 227, 227);
+    border-radius: 50px;
+    border: 0px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.white{
+    color: white;
+}
+.marginR{
+    margin-right: 0.5vw;
+}
+.marginL{
+    margin-left: 0.7vw;
+}

@@ -1,0 +1,98 @@
+<div class="all">
+  <div id="div1">
+    <form action="/action_page.php" class="marginAuto">
+      <fieldset class="fieldset1">
+    <legend style="text-align: right; padding-right: 80px;">טופס עריכת מתכון:</legend>
+<div id="div2">
+  <label>שם המתכון</label>
+  <input type="text" value="{{currentRecipe.name}}" class="form-control" [(ngModel)]="currentRecipe.name"
+    placeholder="{{currentRecipe.name}}" name="nameR">
+
+  <label>זמן הכנה </label>
+  {{currentRecipe.time}}
+  <br>
+  <input type="time" name="Time" [(ngModel)]="currentRecipe.time" placeholder="{{currentRecipe.time}}">
+
+  <label>מספר מנות</label>
+  <br>
+  <input type="number" placeholder="{{currentRecipe.numPortion}}" [(ngModel)]="currentRecipe.numPortion"
+    name="numPortion" min="1">
+
+  <div class="form-group">
+    <label for="comment">הוראות הכנה:</label>
+    <textarea class="form-control inputColer" rows="5" id="comment" [(ngModel)]="currentRecipe.instruction"
+      placeholder="{{currentRecipe.instruction}}" name="instruction"></textarea>
+  </div>
+  <div style="width:50%; float: left;" class="relate">
+    <label>בחר תמונה:</label>
+    <button class="download" (click)="upLoad()"><span class="downloadWord">העלה</span></button>
+    <div class="input-icons" id="input_container">
+      <i class="material-icons iconInputImage" style="z-index: 1 !important;">add_a_photo</i>
+      <input id="input" style="height: 20vh;" type="file" class="form-control inputColer inputSize marginAuto"
+        (change)="mychange($event)" [(ngModel)]="currentRecipe.image" placeholder="הכנס תמונה" name="pic">
+
+      <img *ngIf="flag" src="http://localhost:52298//pictures/{{currentRecipe.image}}" id="input_img">
+    </div>
+  </div>
+
+  <div class="container">
+    <table class="table table-bordered">
+      <thead>
+        <tr class="danger ">
+          <th>מוצר</th>
+          <th>מידה</th>
+          <th>כמות</th>
+
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let item of listSearchRI" class="warning">
+          <td><input type="text" placeholder="{{item.name}}"></td>
+          <td> גרם </td>
+          <td> <input type="number" placeholder="{{item.amount}}"> </td>
+
+        </tr>
+      </tbody>
+    </table>
+    
+  </div>
+  <div *ngIf="notInList">
+    <input type="text" class="inputColer" name="name" [(ngModel)]="newRechiv.name" placeholder="הכנס שם">
+    <input type="text" name="avgPrice" [(ngModel)]="newRechiv.avgPrice" placeholder="מחיר ">
+    <input type="button" value="הוסף" (click)="addPToList()">
+  </div>
+  <br>
+  <br>
+  <button class="inputColer" (click)="add()">הוסף רכיב</button>
+  <br>
+  <br>
+  <button class="inputColer" (click)="notInList=!notInList">לחץ אם הרכיב לא קיים ברשימה</button>
+
+
+
+  <!-- <input type="submit" (click)="update(currentRecipe)"> -->
+
+  <router-outlet></router-outlet>
+</div>
+</fieldset></form>
+<a (click)="update(currentRecipe)"> <button data-toggle="modal" data-target="#exampleModal" class="btn btn-info button1"> שמירה<i class="fa fa-arrow-left white marginR"></i>
+</button></a>
+<div style=" height: 100px"></div>
+</div></div>
+
+
+
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+aria-hidden="true">
+<div class="modal-dialog" role="document">
+  <div class="modal-content">
+    <div class="modal-header">
+      <h5 class="modal-title" id="exampleModalLabel">שינויים נשמרו</h5>
+    </div>
+    
+    <div class="modal-footer">
+      <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+    </div>
+  </div>
+</div>
+</div>

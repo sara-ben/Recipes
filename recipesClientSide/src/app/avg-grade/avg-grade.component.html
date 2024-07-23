@@ -1,0 +1,93 @@
+
+<div class="all">
+
+
+  <!-- <table style="margin-top: 3vh;">
+    <table *ngFor="let item of recipeList" style="border: 1px solid #82393981;" data-toggle="modal"
+      data-target="#exampleModal">
+      <td>
+        <img src="http://localhost:52298/pictures/{{item.image}}" width="10%" (click)="onClick()">
+        <div style="display: inline-block; margin-right: 2vw;">
+          <a (click)="itemId=item.id"
+            style="font-size: 1.5vw; color: rgb(24, 119, 16); font-family: cursive; font-weight: bold;">{{item.name}}</a>
+          <br>
+          <b>{{item.bakerName}}</b>
+        </div>
+        <div *ngIf="itemId==item.id">
+          <app-watch-grade [itemId]="item.id"></app-watch-grade>
+        </div>
+      </td>
+    </table>
+  </table> -->
+  <p class="avg"> ממוצע הדרוגים שלך הוא  {{average}} </p>
+
+
+
+  <table style="margin-top: 3vh;">
+    <table *ngFor="let item of recipeList"  data-toggle="modal" data-target="#exampleModal">
+      <td>
+        <img src="http://localhost:52298/pictures/{{item.image}}" class="image" (click)="onClick()">
+        <div style="display: inline-block; margin-right: 2vw;">
+          <a (click)="itemId=item.id"
+            style="font-size: 1.5vw; color: rgb(24, 119, 16); font-family: cursive; font-weight: bold;">{{item.name}}</a>
+          <br>
+          <b>{{item.bakerName}}</b>
+        </div>
+        <div *ngIf="itemId==item.id">
+          <app-watch-grade [itemId]="item.id"></app-watch-grade>
+        </div>
+        <br><br><br><br><br>
+        <hr>
+      </td>
+    </table>
+  </table>
+
+
+
+
+
+  <!-- <div class="row" dir="rtl">
+    <div *ngFor="let item of recipeList" style="border: 1px solid #82393981;" data-toggle="modal"
+      data-target="#exampleModal">
+      <div class="rec mt-5 mr-5 row" style="height: 155px; ">       
+        <div style="display: inline-block; margin-right: 2vw;">
+          <img src="http://localhost:52298/pictures/{{item.image}}" width="10%" (click)="onClick()">
+          <a (click)="itemId=item.id"
+            style="font-size: 1.5vw; color: rgb(24, 119, 16); font-family: cursive; font-weight: bold;">{{item.name}}</a>
+          <br>
+          <b>{{item.bakerName}}</b>
+        </div>
+        <div *ngIf="itemId==item.id">
+          <app-watch-grade [itemId]="item.id"></app-watch-grade>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+ -->
+
+    <!-- <div class="row" dir="rtl">
+      <div class=" mt-5 mr-5" *ngFor="let item of recipeList">
+        <div class="rec mt-5 mr-5 row" style="height: 155px; ">
+          <img src="http://localhost:52298/pictures/{{item.image}}" class="image col-md-1" dir="rtl">
+          <span>
+            
+            <a [routerLink]="['/watchGrade',item.id]" class="link col-md-3" dir="rtl">{{item.name}}</a>
+            <br>
+            
+          </span>
+          <span class="col-md-7"></span>
+         
+        </div>
+        <hr>
+      </div>
+    </div> -->
+  
+
+
+
+
+
+</div>

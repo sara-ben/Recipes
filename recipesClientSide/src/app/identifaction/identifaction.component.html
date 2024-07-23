@@ -1,0 +1,34 @@
+
+
+<body>
+  <div id="div1">
+    <div>
+      <form class="marginAuto">
+        <div class="form-row marginAuto">
+          <div class="col">
+            <label>הכנס מייל</label>
+            <input type="text" class="form-control input2 marginAuto" [(ngModel)]="this.useresService.selected.email"
+              id="email" placeholder="Enter email" name="email">
+          </div>
+          <div class="col">
+            <label>הכנס סיסמא</label>
+            <input type="password" class="form-control input2 marginAuto"
+              [(ngModel)]="this.useresService.selected.password" placeholder="Enter password" name="pswd">
+          </div>
+        </div>
+        <br>
+        <input type="submit" class="form-control sub marginAuto" (click)="send()">
+
+      </form>
+    </div>
+    
+    <!-- <a [routerLink]="['/LogIn/1']">עדיין לא רשום??</a>
+    <button [routerLink]="['/LogIn/2']">?!?רוצה להצטרף לצוות האופים שלנו</button> -->
+    <button class="btn btn-info d-flex justify-content-center align-items-center button3" [routerLink]="['/']"><i
+        class="fa fa-home fa-2x white"></i></button>
+  </div>
+
+</body>
+
+
+<router-outlet></router-outlet>

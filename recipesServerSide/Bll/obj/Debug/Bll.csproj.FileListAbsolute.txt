@@ -1,0 +1,389 @@
+D:\הפרויקט מתכונים שלנו\מעודכן ל14Server\Bll\obj\Debug\Bll.csprojAssemblyReference.cache
+D:\הפרויקט מתכונים שלנו\מעודכן ל14Server\Bll\obj\Debug\Bll.csproj.CoreCompileInputs.cache
+D:\הפרויקט מתכונים שלנו\3Server\Bll\bin\Debug\Bll.dll
+D:\הפרויקט מתכונים שלנו\3Server\Bll\bin\Debug\Bll.pdb
+D:\הפרויקט מתכונים שלנו\3Server\Bll\bin\Debug\Dal.dll
+D:\הפרויקט מתכונים שלנו\3Server\Bll\bin\Debug\Entities.dll
+D:\הפרויקט מתכונים שלנו\3Server\Bll\bin\Debug\EntityFramework.dll
+D:\הפרויקט מתכונים שלנו\3Server\Bll\bin\Debug\EntityFramework.SqlServer.dll
+D:\הפרויקט מתכונים שלנו\3Server\Bll\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\הפרויקט מתכונים שלנו\3Server\Bll\bin\Debug\Dal.pdb
+D:\הפרויקט מתכונים שלנו\3Server\Bll\bin\Debug\Dal.dll.config
+D:\הפרויקט מתכונים שלנו\3Server\Bll\bin\Debug\Entities.pdb
+D:\הפרויקט מתכונים שלנו\3Server\Bll\bin\Debug\EntityFramework.xml
+D:\הפרויקט מתכונים שלנו\3Server\Bll\bin\Debug\EntityFramework.SqlServer.xml
+D:\הפרויקט מתכונים שלנו\3Server\Bll\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\הפרויקט מתכונים שלנו\3Server\Bll\obj\Debug\Bll.csprojAssemblyReference.cache
+D:\הפרויקט מתכונים שלנו\3Server\Bll\obj\Debug\Bll.csproj.CoreCompileInputs.cache
+D:\הפרויקט מתכונים שלנו\3Server\Bll\obj\Debug\Bll.csproj.CopyComplete
+D:\הפרויקט מתכונים שלנו\3Server\Bll\obj\Debug\Bll.dll
+D:\הפרויקט מתכונים שלנו\3Server\Bll\obj\Debug\Bll.pdb
+C:\Users\User\Desktop\הפרויקט!!!\3Server\Bll\bin\Debug\Bll.dll
+C:\Users\User\Desktop\הפרויקט!!!\3Server\Bll\bin\Debug\Bll.pdb
+C:\Users\User\Desktop\הפרויקט!!!\3Server\Bll\bin\Debug\Dal.dll
+C:\Users\User\Desktop\הפרויקט!!!\3Server\Bll\bin\Debug\Entities.dll
+C:\Users\User\Desktop\הפרויקט!!!\3Server\Bll\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\הפרויקט!!!\3Server\Bll\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\הפרויקט!!!\3Server\Bll\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\הפרויקט!!!\3Server\Bll\bin\Debug\Dal.pdb
+C:\Users\User\Desktop\הפרויקט!!!\3Server\Bll\bin\Debug\Dal.dll.config
+C:\Users\User\Desktop\הפרויקט!!!\3Server\Bll\bin\Debug\Entities.pdb
+C:\Users\User\Desktop\הפרויקט!!!\3Server\Bll\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\הפרויקט!!!\3Server\Bll\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\הפרויקט!!!\3Server\Bll\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\הפרויקט!!!\3Server\Bll\obj\Debug\Bll.csprojAssemblyReference.cache
+C:\Users\User\Desktop\הפרויקט!!!\3Server\Bll\obj\Debug\Bll.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\הפרויקט!!!\3Server\Bll\obj\Debug\Bll.csproj.CopyComplete
+C:\Users\User\Desktop\הפרויקט!!!\3Server\Bll\obj\Debug\Bll.dll
+C:\Users\User\Desktop\הפרויקט!!!\3Server\Bll\obj\Debug\Bll.pdb
+C:\Users\User\Desktop\pgggg\3Server\Bll\bin\Debug\Bll.dll
+C:\Users\User\Desktop\pgggg\3Server\Bll\bin\Debug\Bll.pdb
+C:\Users\User\Desktop\pgggg\3Server\Bll\bin\Debug\Dal.dll
+C:\Users\User\Desktop\pgggg\3Server\Bll\bin\Debug\Entities.dll
+C:\Users\User\Desktop\pgggg\3Server\Bll\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\pgggg\3Server\Bll\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\pgggg\3Server\Bll\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\pgggg\3Server\Bll\bin\Debug\Dal.pdb
+C:\Users\User\Desktop\pgggg\3Server\Bll\bin\Debug\Dal.dll.config
+C:\Users\User\Desktop\pgggg\3Server\Bll\bin\Debug\Entities.pdb
+C:\Users\User\Desktop\pgggg\3Server\Bll\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\pgggg\3Server\Bll\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\pgggg\3Server\Bll\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\pgggg\3Server\Bll\obj\Debug\Bll.csprojAssemblyReference.cache
+C:\Users\User\Desktop\pgggg\3Server\Bll\obj\Debug\Bll.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\pgggg\3Server\Bll\obj\Debug\Bll.csproj.CopyComplete
+C:\Users\User\Desktop\pgggg\3Server\Bll\obj\Debug\Bll.dll
+C:\Users\User\Desktop\pgggg\3Server\Bll\obj\Debug\Bll.pdb
+C:\Users\User\Desktop\2408\3Server\Bll\bin\Debug\Bll.dll
+C:\Users\User\Desktop\2408\3Server\Bll\bin\Debug\Bll.pdb
+C:\Users\User\Desktop\2408\3Server\Bll\bin\Debug\Dal.dll
+C:\Users\User\Desktop\2408\3Server\Bll\bin\Debug\Entities.dll
+C:\Users\User\Desktop\2408\3Server\Bll\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\2408\3Server\Bll\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\2408\3Server\Bll\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\2408\3Server\Bll\bin\Debug\Dal.pdb
+C:\Users\User\Desktop\2408\3Server\Bll\bin\Debug\Dal.dll.config
+C:\Users\User\Desktop\2408\3Server\Bll\bin\Debug\Entities.pdb
+C:\Users\User\Desktop\2408\3Server\Bll\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\2408\3Server\Bll\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\2408\3Server\Bll\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\2408\3Server\Bll\obj\Debug\Bll.csprojAssemblyReference.cache
+C:\Users\User\Desktop\2408\3Server\Bll\obj\Debug\Bll.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\2408\3Server\Bll\obj\Debug\Bll.csproj.CopyComplete
+C:\Users\User\Desktop\2408\3Server\Bll\obj\Debug\Bll.dll
+C:\Users\User\Desktop\2408\3Server\Bll\obj\Debug\Bll.pdb
+C:\Users\User\Desktop\2708\3Server\Bll\bin\Debug\Bll.dll
+C:\Users\User\Desktop\2708\3Server\Bll\bin\Debug\Bll.pdb
+C:\Users\User\Desktop\2708\3Server\Bll\bin\Debug\Dal.dll
+C:\Users\User\Desktop\2708\3Server\Bll\bin\Debug\Entities.dll
+C:\Users\User\Desktop\2708\3Server\Bll\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\2708\3Server\Bll\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\2708\3Server\Bll\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\2708\3Server\Bll\bin\Debug\Dal.pdb
+C:\Users\User\Desktop\2708\3Server\Bll\bin\Debug\Dal.dll.config
+C:\Users\User\Desktop\2708\3Server\Bll\bin\Debug\Entities.pdb
+C:\Users\User\Desktop\2708\3Server\Bll\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\2708\3Server\Bll\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\2708\3Server\Bll\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\2708\3Server\Bll\obj\Debug\Bll.csprojAssemblyReference.cache
+C:\Users\User\Desktop\2708\3Server\Bll\obj\Debug\Bll.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\2708\3Server\Bll\obj\Debug\Bll.csproj.CopyComplete
+C:\Users\User\Desktop\2708\3Server\Bll\obj\Debug\Bll.dll
+C:\Users\User\Desktop\2708\3Server\Bll\obj\Debug\Bll.pdb
+C:\Users\User\Desktop\3108\3Server\Bll\bin\Debug\Bll.dll
+C:\Users\User\Desktop\3108\3Server\Bll\bin\Debug\Bll.pdb
+C:\Users\User\Desktop\3108\3Server\Bll\bin\Debug\Dal.dll
+C:\Users\User\Desktop\3108\3Server\Bll\bin\Debug\Entities.dll
+C:\Users\User\Desktop\3108\3Server\Bll\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\3108\3Server\Bll\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\3108\3Server\Bll\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\3108\3Server\Bll\bin\Debug\Dal.pdb
+C:\Users\User\Desktop\3108\3Server\Bll\bin\Debug\Dal.dll.config
+C:\Users\User\Desktop\3108\3Server\Bll\bin\Debug\Entities.pdb
+C:\Users\User\Desktop\3108\3Server\Bll\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\3108\3Server\Bll\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\3108\3Server\Bll\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\3108\3Server\Bll\obj\Debug\Bll.csprojAssemblyReference.cache
+C:\Users\User\Desktop\3108\3Server\Bll\obj\Debug\Bll.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\3108\3Server\Bll\obj\Debug\Bll.csproj.CopyComplete
+C:\Users\User\Desktop\3108\3Server\Bll\obj\Debug\Bll.dll
+C:\Users\User\Desktop\3108\3Server\Bll\obj\Debug\Bll.pdb
+C:\Users\User\Desktop\S0409\Bll\bin\Debug\Bll.dll
+C:\Users\User\Desktop\S0409\Bll\bin\Debug\Bll.pdb
+C:\Users\User\Desktop\S0409\Bll\bin\Debug\Dal.dll
+C:\Users\User\Desktop\S0409\Bll\bin\Debug\Entities.dll
+C:\Users\User\Desktop\S0409\Bll\bin\Debug\Dal.pdb
+C:\Users\User\Desktop\S0409\Bll\bin\Debug\Dal.dll.config
+C:\Users\User\Desktop\S0409\Bll\bin\Debug\Entities.pdb
+C:\Users\User\Desktop\S0409\Bll\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\S0409\Bll\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\S0409\Bll\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\S0409\Bll\obj\Debug\Bll.csprojAssemblyReference.cache
+C:\Users\User\Desktop\S0409\Bll\obj\Debug\Bll.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\S0409\Bll\obj\Debug\Bll.csproj.CopyComplete
+C:\Users\User\Desktop\S0409\Bll\obj\Debug\Bll.dll
+C:\Users\User\Desktop\S0409\Bll\obj\Debug\Bll.pdb
+C:\Users\User\Desktop\0409\S0409\Bll\obj\Debug\Bll.csprojAssemblyReference.cache
+C:\Users\User\Desktop\0409\S0409\Bll\obj\Debug\Bll.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\0409\S0409\Bll\obj\Debug\Bll.dll
+C:\Users\User\Desktop\0409\S0409\Bll\obj\Debug\Bll.pdb
+C:\Users\User\Desktop\0409\S0409\Bll\bin\Debug\Bll.dll
+C:\Users\User\Desktop\0409\S0409\Bll\bin\Debug\Bll.pdb
+C:\Users\User\Desktop\0409\S0409\Bll\bin\Debug\Dal.dll
+C:\Users\User\Desktop\0409\S0409\Bll\bin\Debug\Entities.dll
+C:\Users\User\Desktop\0409\S0409\Bll\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\0409\S0409\Bll\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\0409\S0409\Bll\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\0409\S0409\Bll\bin\Debug\Dal.pdb
+C:\Users\User\Desktop\0409\S0409\Bll\bin\Debug\Dal.dll.config
+C:\Users\User\Desktop\0409\S0409\Bll\bin\Debug\Entities.pdb
+C:\Users\User\Desktop\0409\S0409\Bll\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\0409\S0409\Bll\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\0409\S0409\Bll\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\0409\S0409\Bll\obj\Debug\Bll.csproj.CopyComplete
+C:\Users\User\Desktop\0909\S0409\Bll\bin\Debug\Bll.dll
+C:\Users\User\Desktop\0909\S0409\Bll\bin\Debug\Bll.pdb
+C:\Users\User\Desktop\0909\S0409\Bll\bin\Debug\Dal.dll
+C:\Users\User\Desktop\0909\S0409\Bll\bin\Debug\Entities.dll
+C:\Users\User\Desktop\0909\S0409\Bll\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\0909\S0409\Bll\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\0909\S0409\Bll\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\0909\S0409\Bll\bin\Debug\Dal.pdb
+C:\Users\User\Desktop\0909\S0409\Bll\bin\Debug\Dal.dll.config
+C:\Users\User\Desktop\0909\S0409\Bll\bin\Debug\Entities.pdb
+C:\Users\User\Desktop\0909\S0409\Bll\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\0909\S0409\Bll\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\0909\S0409\Bll\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\0909\S0409\Bll\obj\Debug\Bll.csprojAssemblyReference.cache
+C:\Users\User\Desktop\0909\S0409\Bll\obj\Debug\Bll.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\0909\S0409\Bll\obj\Debug\Bll.csproj.CopyComplete
+C:\Users\User\Desktop\0909\S0409\Bll\obj\Debug\Bll.dll
+C:\Users\User\Desktop\0909\S0409\Bll\obj\Debug\Bll.pdb
+C:\Users\User\Desktop\1110\S1110\Bll\bin\Debug\Bll.dll
+C:\Users\User\Desktop\1110\S1110\Bll\bin\Debug\Bll.pdb
+C:\Users\User\Desktop\1110\S1110\Bll\bin\Debug\Dal.dll
+C:\Users\User\Desktop\1110\S1110\Bll\bin\Debug\Entities.dll
+C:\Users\User\Desktop\1110\S1110\Bll\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\1110\S1110\Bll\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\1110\S1110\Bll\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\1110\S1110\Bll\bin\Debug\Dal.pdb
+C:\Users\User\Desktop\1110\S1110\Bll\bin\Debug\Dal.dll.config
+C:\Users\User\Desktop\1110\S1110\Bll\bin\Debug\Entities.pdb
+C:\Users\User\Desktop\1110\S1110\Bll\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\1110\S1110\Bll\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\1110\S1110\Bll\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\1110\S1110\Bll\obj\Debug\Bll.csprojAssemblyReference.cache
+C:\Users\User\Desktop\1110\S1110\Bll\obj\Debug\Bll.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\1110\S1110\Bll\obj\Debug\Bll.csproj.CopyComplete
+C:\Users\User\Desktop\1110\S1110\Bll\obj\Debug\Bll.dll
+C:\Users\User\Desktop\1110\S1110\Bll\obj\Debug\Bll.pdb
+C:\Users\User\Desktop\3110\S3110\Bll\bin\Debug\Bll.dll
+C:\Users\User\Desktop\3110\S3110\Bll\bin\Debug\Bll.pdb
+C:\Users\User\Desktop\3110\S3110\Bll\bin\Debug\Dal.dll
+C:\Users\User\Desktop\3110\S3110\Bll\bin\Debug\Entities.dll
+C:\Users\User\Desktop\3110\S3110\Bll\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\3110\S3110\Bll\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\3110\S3110\Bll\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\3110\S3110\Bll\bin\Debug\Dal.pdb
+C:\Users\User\Desktop\3110\S3110\Bll\bin\Debug\Dal.dll.config
+C:\Users\User\Desktop\3110\S3110\Bll\bin\Debug\Entities.pdb
+C:\Users\User\Desktop\3110\S3110\Bll\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\3110\S3110\Bll\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\3110\S3110\Bll\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\3110\S3110\Bll\obj\Debug\Bll.csprojAssemblyReference.cache
+C:\Users\User\Desktop\3110\S3110\Bll\obj\Debug\Bll.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\3110\S3110\Bll\obj\Debug\Bll.csproj.CopyComplete
+C:\Users\User\Desktop\3110\S3110\Bll\obj\Debug\Bll.dll
+C:\Users\User\Desktop\3110\S3110\Bll\obj\Debug\Bll.pdb
+C:\Users\User\Desktop\אפים\2111\S0911\Bll\bin\Debug\Bll.dll
+C:\Users\User\Desktop\אפים\2111\S0911\Bll\bin\Debug\Bll.pdb
+C:\Users\User\Desktop\אפים\2111\S0911\Bll\bin\Debug\Dal.dll
+C:\Users\User\Desktop\אפים\2111\S0911\Bll\bin\Debug\Entities.dll
+C:\Users\User\Desktop\אפים\2111\S0911\Bll\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\אפים\2111\S0911\Bll\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\אפים\2111\S0911\Bll\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\אפים\2111\S0911\Bll\bin\Debug\Dal.pdb
+C:\Users\User\Desktop\אפים\2111\S0911\Bll\bin\Debug\Dal.dll.config
+C:\Users\User\Desktop\אפים\2111\S0911\Bll\bin\Debug\Entities.pdb
+C:\Users\User\Desktop\אפים\2111\S0911\Bll\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\אפים\2111\S0911\Bll\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\אפים\2111\S0911\Bll\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\אפים\2111\S0911\Bll\obj\Debug\Bll.csprojAssemblyReference.cache
+C:\Users\User\Desktop\אפים\2111\S0911\Bll\obj\Debug\Bll.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\אפים\2111\S0911\Bll\obj\Debug\Bll.csproj.CopyComplete
+C:\Users\User\Desktop\אפים\2111\S0911\Bll\obj\Debug\Bll.dll
+C:\Users\User\Desktop\אפים\2111\S0911\Bll\obj\Debug\Bll.pdb
+C:\Users\User\Desktop\אפים\2211\S0911\Bll\bin\Debug\Bll.dll
+C:\Users\User\Desktop\אפים\2211\S0911\Bll\bin\Debug\Bll.pdb
+C:\Users\User\Desktop\אפים\2211\S0911\Bll\bin\Debug\Dal.dll
+C:\Users\User\Desktop\אפים\2211\S0911\Bll\bin\Debug\Entities.dll
+C:\Users\User\Desktop\אפים\2211\S0911\Bll\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\אפים\2211\S0911\Bll\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\אפים\2211\S0911\Bll\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\אפים\2211\S0911\Bll\bin\Debug\Dal.pdb
+C:\Users\User\Desktop\אפים\2211\S0911\Bll\bin\Debug\Dal.dll.config
+C:\Users\User\Desktop\אפים\2211\S0911\Bll\bin\Debug\Entities.pdb
+C:\Users\User\Desktop\אפים\2211\S0911\Bll\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\אפים\2211\S0911\Bll\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\אפים\2211\S0911\Bll\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\אפים\2211\S0911\Bll\obj\Debug\Bll.csprojAssemblyReference.cache
+C:\Users\User\Desktop\אפים\2211\S0911\Bll\obj\Debug\Bll.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\אפים\2211\S0911\Bll\obj\Debug\Bll.csproj.CopyComplete
+C:\Users\User\Desktop\אפים\2211\S0911\Bll\obj\Debug\Bll.dll
+C:\Users\User\Desktop\אפים\2211\S0911\Bll\obj\Debug\Bll.pdb
+C:\Users\User\Desktop\2607\S0911\Bll\bin\Debug\Bll.dll
+C:\Users\User\Desktop\2607\S0911\Bll\bin\Debug\Bll.pdb
+C:\Users\User\Desktop\2607\S0911\Bll\bin\Debug\Dal.dll
+C:\Users\User\Desktop\2607\S0911\Bll\bin\Debug\Entities.dll
+C:\Users\User\Desktop\2607\S0911\Bll\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\2607\S0911\Bll\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\2607\S0911\Bll\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\2607\S0911\Bll\bin\Debug\Dal.pdb
+C:\Users\User\Desktop\2607\S0911\Bll\bin\Debug\Dal.dll.config
+C:\Users\User\Desktop\2607\S0911\Bll\bin\Debug\Entities.pdb
+C:\Users\User\Desktop\2607\S0911\Bll\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\2607\S0911\Bll\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\2607\S0911\Bll\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\2607\S0911\Bll\obj\Debug\Bll.csprojAssemblyReference.cache
+C:\Users\User\Desktop\2607\S0911\Bll\obj\Debug\Bll.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\2607\S0911\Bll\obj\Debug\Bll.csproj.CopyComplete
+C:\Users\User\Desktop\2607\S0911\Bll\obj\Debug\Bll.dll
+C:\Users\User\Desktop\2607\S0911\Bll\obj\Debug\Bll.pdb
+C:\Users\User\Desktop\0812\S0911\Bll\bin\Debug\Bll.dll
+C:\Users\User\Desktop\0812\S0911\Bll\bin\Debug\Bll.pdb
+C:\Users\User\Desktop\0812\S0911\Bll\bin\Debug\Dal.dll
+C:\Users\User\Desktop\0812\S0911\Bll\bin\Debug\Entities.dll
+C:\Users\User\Desktop\0812\S0911\Bll\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\0812\S0911\Bll\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\0812\S0911\Bll\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\0812\S0911\Bll\bin\Debug\Dal.pdb
+C:\Users\User\Desktop\0812\S0911\Bll\bin\Debug\Dal.dll.config
+C:\Users\User\Desktop\0812\S0911\Bll\bin\Debug\Entities.pdb
+C:\Users\User\Desktop\0812\S0911\Bll\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\0812\S0911\Bll\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\0812\S0911\Bll\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\0812\S0911\Bll\obj\Debug\Bll.csprojAssemblyReference.cache
+C:\Users\User\Desktop\0812\S0911\Bll\obj\Debug\Bll.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\0812\S0911\Bll\obj\Debug\Bll.csproj.CopyComplete
+C:\Users\User\Desktop\0812\S0911\Bll\obj\Debug\Bll.dll
+C:\Users\User\Desktop\0812\S0911\Bll\obj\Debug\Bll.pdb
+C:\Users\User\Desktop\0812\server\Bll\bin\Debug\Bll.dll
+C:\Users\User\Desktop\0812\server\Bll\bin\Debug\Bll.pdb
+C:\Users\User\Desktop\0812\server\Bll\bin\Debug\Dal.dll
+C:\Users\User\Desktop\0812\server\Bll\bin\Debug\Entities.dll
+C:\Users\User\Desktop\0812\server\Bll\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\0812\server\Bll\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\0812\server\Bll\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\0812\server\Bll\bin\Debug\Dal.pdb
+C:\Users\User\Desktop\0812\server\Bll\bin\Debug\Dal.dll.config
+C:\Users\User\Desktop\0812\server\Bll\bin\Debug\Entities.pdb
+C:\Users\User\Desktop\0812\server\Bll\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\0812\server\Bll\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\0812\server\Bll\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\0812\server\Bll\obj\Debug\Bll.csprojAssemblyReference.cache
+C:\Users\User\Desktop\0812\server\Bll\obj\Debug\Bll.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\0812\server\Bll\obj\Debug\Bll.csproj.CopyComplete
+C:\Users\User\Desktop\0812\server\Bll\obj\Debug\Bll.dll
+C:\Users\User\Desktop\0812\server\Bll\obj\Debug\Bll.pdb
+C:\Users\User\Desktop\1001\server\Bll\bin\Debug\Bll.dll
+C:\Users\User\Desktop\1001\server\Bll\bin\Debug\Bll.pdb
+C:\Users\User\Desktop\1001\server\Bll\bin\Debug\Dal.dll
+C:\Users\User\Desktop\1001\server\Bll\bin\Debug\Entities.dll
+C:\Users\User\Desktop\1001\server\Bll\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\1001\server\Bll\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\1001\server\Bll\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\1001\server\Bll\bin\Debug\Dal.pdb
+C:\Users\User\Desktop\1001\server\Bll\bin\Debug\Dal.dll.config
+C:\Users\User\Desktop\1001\server\Bll\bin\Debug\Entities.pdb
+C:\Users\User\Desktop\1001\server\Bll\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\1001\server\Bll\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\1001\server\Bll\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\1001\server\Bll\obj\Debug\Bll.csprojAssemblyReference.cache
+C:\Users\User\Desktop\1001\server\Bll\obj\Debug\Bll.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\1001\server\Bll\obj\Debug\Bll.csproj.CopyComplete
+C:\Users\User\Desktop\1001\server\Bll\obj\Debug\Bll.dll
+C:\Users\User\Desktop\1001\server\Bll\obj\Debug\Bll.pdb
+C:\Users\User\Desktop\1501\server1501\Bll\bin\Debug\Bll.dll
+C:\Users\User\Desktop\1501\server1501\Bll\bin\Debug\Bll.pdb
+C:\Users\User\Desktop\1501\server1501\Bll\bin\Debug\Dal.dll
+C:\Users\User\Desktop\1501\server1501\Bll\bin\Debug\Entities.dll
+C:\Users\User\Desktop\1501\server1501\Bll\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\1501\server1501\Bll\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\1501\server1501\Bll\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\1501\server1501\Bll\bin\Debug\Dal.pdb
+C:\Users\User\Desktop\1501\server1501\Bll\bin\Debug\Dal.dll.config
+C:\Users\User\Desktop\1501\server1501\Bll\bin\Debug\Entities.pdb
+C:\Users\User\Desktop\1501\server1501\Bll\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\1501\server1501\Bll\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\1501\server1501\Bll\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\1501\server1501\Bll\obj\Debug\Bll.csprojAssemblyReference.cache
+C:\Users\User\Desktop\1501\server1501\Bll\obj\Debug\Bll.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\1501\server1501\Bll\obj\Debug\Bll.csproj.CopyComplete
+C:\Users\User\Desktop\1501\server1501\Bll\obj\Debug\Bll.dll
+C:\Users\User\Desktop\1501\server1501\Bll\obj\Debug\Bll.pdb
+C:\Users\User\Desktop\3101\server1501\Bll\bin\Debug\Bll.dll
+C:\Users\User\Desktop\3101\server1501\Bll\bin\Debug\Bll.pdb
+C:\Users\User\Desktop\3101\server1501\Bll\bin\Debug\Dal.dll
+C:\Users\User\Desktop\3101\server1501\Bll\bin\Debug\Entities.dll
+C:\Users\User\Desktop\3101\server1501\Bll\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\3101\server1501\Bll\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\3101\server1501\Bll\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\3101\server1501\Bll\bin\Debug\Dal.pdb
+C:\Users\User\Desktop\3101\server1501\Bll\bin\Debug\Dal.dll.config
+C:\Users\User\Desktop\3101\server1501\Bll\bin\Debug\Entities.pdb
+C:\Users\User\Desktop\3101\server1501\Bll\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\3101\server1501\Bll\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\3101\server1501\Bll\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\3101\server1501\Bll\obj\Debug\Bll.csprojAssemblyReference.cache
+C:\Users\User\Desktop\3101\server1501\Bll\obj\Debug\Bll.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\3101\server1501\Bll\obj\Debug\Bll.csproj.CopyComplete
+C:\Users\User\Desktop\3101\server1501\Bll\obj\Debug\Bll.dll
+C:\Users\User\Desktop\3101\server1501\Bll\obj\Debug\Bll.pdb
+C:\Users\User\Desktop\1103\server1103\Bll\bin\Debug\Bll.dll
+C:\Users\User\Desktop\1103\server1103\Bll\bin\Debug\Bll.pdb
+C:\Users\User\Desktop\1103\server1103\Bll\bin\Debug\Dal.dll
+C:\Users\User\Desktop\1103\server1103\Bll\bin\Debug\Entities.dll
+C:\Users\User\Desktop\1103\server1103\Bll\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\1103\server1103\Bll\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\1103\server1103\Bll\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\1103\server1103\Bll\bin\Debug\Dal.pdb
+C:\Users\User\Desktop\1103\server1103\Bll\bin\Debug\Dal.dll.config
+C:\Users\User\Desktop\1103\server1103\Bll\bin\Debug\Entities.pdb
+C:\Users\User\Desktop\1103\server1103\Bll\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\1103\server1103\Bll\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\1103\server1103\Bll\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\1103\server1103\Bll\obj\Debug\Bll.csprojAssemblyReference.cache
+C:\Users\User\Desktop\1103\server1103\Bll\obj\Debug\Bll.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\1103\server1103\Bll\obj\Debug\Bll.csproj.CopyComplete
+C:\Users\User\Desktop\1103\server1103\Bll\obj\Debug\Bll.dll
+C:\Users\User\Desktop\1103\server1103\Bll\obj\Debug\Bll.pdb
+C:\Users\User\Desktop\פרויקט גמר     מהט\פרויקט מתכונים\אפים\1103\server1103\Bll\bin\Debug\Bll.dll
+C:\Users\User\Desktop\פרויקט גמר     מהט\פרויקט מתכונים\אפים\1103\server1103\Bll\bin\Debug\Bll.pdb
+C:\Users\User\Desktop\פרויקט גמר     מהט\פרויקט מתכונים\אפים\1103\server1103\Bll\bin\Debug\Dal.dll
+C:\Users\User\Desktop\פרויקט גמר     מהט\פרויקט מתכונים\אפים\1103\server1103\Bll\bin\Debug\Entities.dll
+C:\Users\User\Desktop\פרויקט גמר     מהט\פרויקט מתכונים\אפים\1103\server1103\Bll\bin\Debug\Dal.pdb
+C:\Users\User\Desktop\פרויקט גמר     מהט\פרויקט מתכונים\אפים\1103\server1103\Bll\bin\Debug\Dal.dll.config
+C:\Users\User\Desktop\פרויקט גמר     מהט\פרויקט מתכונים\אפים\1103\server1103\Bll\bin\Debug\Entities.pdb
+C:\Users\User\Desktop\פרויקט גמר     מהט\פרויקט מתכונים\אפים\1103\server1103\Bll\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\פרויקט גמר     מהט\פרויקט מתכונים\אפים\1103\server1103\Bll\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\פרויקט גמר     מהט\פרויקט מתכונים\אפים\1103\server1103\Bll\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\פרויקט גמר     מהט\פרויקט מתכונים\אפים\1103\server1103\Bll\obj\Debug\Bll.csprojAssemblyReference.cache
+C:\Users\User\Desktop\פרויקט גמר     מהט\פרויקט מתכונים\אפים\1103\server1103\Bll\obj\Debug\Bll.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\פרויקט גמר     מהט\פרויקט מתכונים\אפים\1103\server1103\Bll\obj\Debug\Bll.csproj.CopyComplete
+C:\Users\User\Desktop\פרויקט גמר     מהט\פרויקט מתכונים\אפים\1103\server1103\Bll\obj\Debug\Bll.dll
+C:\Users\User\Desktop\פרויקט גמר     מהט\פרויקט מתכונים\אפים\1103\server1103\Bll\obj\Debug\Bll.pdb
+C:\Users\User\Desktop\פרויקט סופי\server1103\Bll\bin\Debug\Bll.dll
+C:\Users\User\Desktop\פרויקט סופי\server1103\Bll\bin\Debug\Bll.pdb
+C:\Users\User\Desktop\פרויקט סופי\server1103\Bll\bin\Debug\Dal.dll
+C:\Users\User\Desktop\פרויקט סופי\server1103\Bll\bin\Debug\Entities.dll
+C:\Users\User\Desktop\פרויקט סופי\server1103\Bll\bin\Debug\Dal.pdb
+C:\Users\User\Desktop\פרויקט סופי\server1103\Bll\bin\Debug\Dal.dll.config
+C:\Users\User\Desktop\פרויקט סופי\server1103\Bll\bin\Debug\Entities.pdb
+C:\Users\User\Desktop\פרויקט סופי\server1103\Bll\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\פרויקט סופי\server1103\Bll\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\פרויקט סופי\server1103\Bll\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\פרויקט סופי\server1103\Bll\obj\Debug\Bll.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\פרויקט סופי\server1103\Bll\obj\Debug\Bll.csproj.CopyComplete
+C:\Users\User\Desktop\פרויקט סופי\server1103\Bll\obj\Debug\Bll.dll
+C:\Users\User\Desktop\פרויקט סופי\server1103\Bll\obj\Debug\Bll.pdb
+C:\Users\User\Desktop\פרויקט סופי\server1103\Bll\obj\Debug\Bll.csproj.AssemblyReference.cache

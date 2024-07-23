@@ -1,0 +1,67 @@
+<div class="all">
+  <router-outlet></router-outlet>
+
+  <div class="container" style="margin-top: 100px; ">
+    <div class="row">
+      <div class="col-3"></div>
+      <div class="col-6 cntr">
+        <form class="navbar-form navbar-right marginAuto">
+
+
+          <mat-form-field appearance="fill" class="category" >
+            <mat-label>בחר קטגוריה</mat-label>
+            <mat-select id="sel1" name="descreption" [(ngModel)]="descreption">
+              <mat-option *ngFor="let item of categories" [value]="item.descreption" (click)="onChange()"
+                (change)="onChange()">{{item.descreption}}</mat-option>
+            </mat-select>
+          </mat-form-field>
+
+
+          <mat-form-field appearance="fill" >
+            <mat-label>ערכי קטגוריה</mat-label>
+            <mat-select id="sel1" name="valueC" [(ngModel)]="valueC">
+              <mat-option *ngFor="let item of categoriesValue" [value]="item.name" (click)="search()">{{item.name}}
+              </mat-option>
+            </mat-select>
+          </mat-form-field>
+
+
+
+          <!-- <div class="input-group marginAuto">
+              <label>קטגוריה</label>
+            <select class="form-control" id="sel1" name="descreption" [(ngModel)]="descreption" (change)="onChange()">
+              <option *ngFor="let item of categories">{{item.descreption}} </option>
+            </select>
+          </div>
+          
+          <div class="input-group">
+            <label>ערכי קטגוריה</label>
+            <select class="form-control" id="sel1" name="valueC" [(ngModel)]="valueC">
+              <option *ngFor="let item of categoriesValue" id="p">{{item.name}}</option>
+            </select>
+          </div> -->
+
+          <!-- <div class="input-group">
+            <button class="btn btn-default" type="submit" (click)="search()">
+              <i class="glyphicon glyphicon-search"></i>
+            </button>
+          </div> -->
+        </form>
+
+      </div>
+      <div class="col-3"></div>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-md-4 mt-5 mr-5" *ngFor="let item of recipeService.recipes">
+      <div class="bigRec">
+      <div class="rec mt-5 mr-5">
+        <img src="http://localhost:52298/pictures/{{item.image}}" class="image">
+        <a [routerLink]="['/watchRecipe',item.id]" class="link">{{item.name}}</a>
+      </div>
+    </div>
+  </div>
+  </div>
+
+</div>

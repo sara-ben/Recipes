@@ -1,0 +1,241 @@
+<body class="all">
+
+  <div id="div1" dir="rtl">
+
+    <form action="/action_page.php" class="marginAuto">
+      <fieldset class="fieldset1">
+        <legend style="text-align: right; padding-right: 80px;">טופס הוספת מתכון:</legend>
+        <div id="div3">
+          <label for="nameRecipe">הכנס שם מתכון:</label>
+          <div class="input-icons">
+            <i class="fa fa-edit fa-2x iconInput"></i>
+            <input type="text" id="nameRecipe" class="form-control inputColer inputSize marginAuto"
+              [(ngModel)]="myNewRecipe.NRecipe.name" placeholder=" שם מתכון" id="email" name="nameR" placeholder="">
+          </div>
+          <div style="width: 45%; float: right;">
+            <div class="form-group">
+              <label for="comment">הוראות הכנה:</label>
+              <div class="input-icons">
+                <i class="fa fa-edit fa-2x iconInputC"></i>
+                <textarea id="instruction" style="height: 20vh;" class="form-control inputColer inputSize marginAuto"
+                  [(ngModel)]="myNewRecipe.NRecipe.instruction" placeholder=" הכנס הוראות הכנה"
+                  name="instruction"> </textarea>
+              </div>
+            </div>
+          </div>
+         
+
+          <div style="width:50%; float: left;" class="relate">
+            <label>בחר תמונה:</label>
+            <button class="download" (click)="upLoad()"><span class="downloadWord">העלה</span></button>
+            <div class="input-icons" id="input_container">
+              <i class="material-icons iconInputImage" style="z-index: 1 !important;">add_a_photo</i>
+              <input id="input" style="height: 20vh;" type="file" class="form-control inputColer inputSize marginAuto"
+                (change)="mychange($event)" [(ngModel)]="myNewRecipe.NRecipe.image" placeholder="הכנס תמונה" name="pic">
+
+              <img *ngIf="flag" src="http://localhost:52298//pictures/{{myNewRecipe.NRecipe.image}}" id="input_img">
+            </div>
+          </div>
+
+
+          <div class="input-icons" style="width: 100%;float: left;">
+            <label>זמן הכנה </label>
+            <br>
+            <input class="inputColer form-control inputColer inputSize marginAuto" type="time" name="Time"
+              [(ngModel)]="myNewRecipe.NRecipe.time" style="width: 100%;">
+          </div>
+          <div class="input-icons" style="width: 100%; float: right;">
+            <label>הכנס מספר מנות</label>
+            <br>
+            <input class="inputColer form-control inputColer inputSize marginAuto" type="number"
+              [(ngModel)]="myNewRecipe.NRecipe.numPortion" name="numPortion" min="1" style=" float: left;">
+          </div>
+          <br>
+
+          <div *ngFor="let item of myNewRecipe.NListIng;let i=index" class="row">
+            <div class="col-md-5">
+
+              <div *ngIf="item.IsNew==true">
+                 <h1 style="color: rebeccapurple;"></h1>
+                <div class="form-group">
+                  <label for="productName">שם רכיב:</label>
+                  <select name="ll" id="productName" class="form-control" [(ngModel)]="p2.product.name">
+                    <option class="inputColer " *ngFor="let i1 of ListProduct">
+                      <p *ngIf="myNewRecipe.NListIng[i].name">{{item.product.name}}</p>
+                      {{i1.name}}
+                    </option>
+                  </select>
+                  <label for="amount">כמות:</label>
+                  <input id="amount" class="inputColer form-control" type="number" min="0" name="cnt"
+                    [value]="item.amount" [(ngModel)]="p2.amount">
+                  <button (click)="addProduct()" class="btnAdd">הוסף</button>
+                  <br>
+                  <h4 style="color: rgb(124, 124, 124);">הוספת רכיב לרשימת הרכיבים</h4>
+                  <label for="productN">שם מוצר:</label>
+                  <input id="productN" type="text" class="inputColer form-control" name="name"
+                    [(ngModel)]="newRechiv.name" placeholder="הכנס שם">
+                  <label for="price">מחיר:</label>
+                  <input type="text" class="form-control" id="price" name="avgPrice" [(ngModel)]="newRechiv.avgPrice"
+                    placeholder=" הכנס מחיר">
+
+                  <button  data-toggle="modal" data-target="#exampleModal" class="btnAdd" (click)="addPToList()"> הוסף רכיב חדש</button>
+
+                </div>
+              </div>
+            </div>
+
+            <div class="col-md-6" id="tableOfIngredients">
+              <tr *ngIf="item.IsNew==true">רשימת המוצרים</tr>
+              <tr *ngIf="item.IsNew==true">
+                <th style="text-align: center;">שם מוצר</th>
+                <th>כמות ל- 100 גרם</th>
+              </tr>
+              <tr *ngIf="item.IsNew!=true && item.isRemoved==false" >
+                <td>{{myNewRecipe.NListIng[i].product.name}}</td>
+                <td>{{myNewRecipe.NListIng[i].amount}}</td>
+                <td id="tdIcons"> <svg (click)="removeProduct(item)" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-trash" viewBox="0 0 16 16">
+                  <path d="M5.5 5.5A.5.5 0 0 1 6 6v6a.5.5 0 0 1-1 0V6a.5.5 0 0 1 .5-.5zm2.5 0a.5.5 0 0 1 .5.5v6a.5.5 0 0 1-1 0V6a.5.5 0 0 1 .5-.5zm3 .5a.5.5 0 0 0-1 0v6a.5.5 0 0 0 1 0V6z"/>
+                  <path fill-rule="evenodd" d="M14.5 3a1 1 0 0 1-1 1H13v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V4h-.5a1 1 0 0 1-1-1V2a1 1 0 0 1 1-1H6a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1h3.5a1 1 0 0 1 1 1v1zM4.118 4 4 4.059V13a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1V4.059L11.882 4H4.118zM2.5 3V2h11v1h-11z"/>
+                </svg></td>
+              </tr>
+            </div>
+
+
+<!-- *לעשות לקטגוריות טבלה כמו לרכיבים* -->
+<!-- <div class="col-md-6" id="tableOfCategories">
+  <tr *ngIf="item.IsNew==true">רשימת הקטגוריות</tr>
+  <tr *ngIf="item.IsNew==true">
+    <th style="text-align: center;">קטגוריה </th>
+    <th> ערך הקטגוריה</th>
+  </tr>
+
+  <tr  *ngIf="item.IsNew!=true && item.isRemoved==false">
+    <td>{{myNewRecipe.NListCat[item].name}}</td>
+    <td>{{myNewRecipe.NListCat.categoriesValue.name}}</td>
+    <td id="tdIcons"> <svg (click)="removeCategory(item)" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-trash" viewBox="0 0 16 16">
+      <path d="M5.5 5.5A.5.5 0 0 1 6 6v6a.5.5 0 0 1-1 0V6a.5.5 0 0 1 .5-.5zm2.5 0a.5.5 0 0 1 .5.5v6a.5.5 0 0 1-1 0V6a.5.5 0 0 1 .5-.5zm3 .5a.5.5 0 0 0-1 0v6a.5.5 0 0 0 1 0V6z"/>
+      <path fill-rule="evenodd" d="M14.5 3a1 1 0 0 1-1 1H13v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V4h-.5a1 1 0 0 1-1-1V2a1 1 0 0 1 1-1H6a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1h3.5a1 1 0 0 1 1 1v1zM4.118 4 4 4.059V13a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1V4.059L11.882 4H4.118zM2.5 3V2h11v1h-11z"/>
+    </svg></td>
+  </tr>
+</div> -->
+<!-- ** -->
+
+
+          </div>
+          <div>
+
+            <div class="col-md-5">
+              <h4 style="color: rgb(124, 124, 124);">הוספת קטגוריה חדשה לרשימת הקטגוריות</h4>
+              <div class="form-group" style=" width: 103%;">
+                <label for="categoryName">שם קטגוריה</label>
+                <input id="categoryName" type="text" class="form-control" name="nameCat"
+                  [(ngModel)]="newCategory.descreption" placeholder="הכנס שם קטגוריה">
+                <!-- <input type="button" class="btnAdd" value="הוסף" (click)="addCategory()"> -->
+                <button  data-toggle="modal" data-target="#NewCategoryModal" class="btnAdd" (click)="addCategory()"> הוסף קטגוריה חדשה</button>
+
+              </div>
+              <h4 style="color: rgb(124, 124, 124); margin-top: 40px;">הוספת ערך לקטגוריה זו</h4>
+              <div class="form-group" style=" width: 103%; margin-bottom: 250px;">
+                <label for="categoryValue">ערך קטגוריה</label>
+                <input id="categoryValue" type="text" class="inputColer form-control" name="nameCatVal"
+                  [(ngModel)]="newCategoryValue.name" placeholder="הכנס ערך קטגוריה">
+                <input type="button" class="btnAdd" value="הוסף" (click)="addPToCategoriesValueToShow()">
+                <!-- <button  data-toggle="modal" data-target="#NewCategoryValueModal" class="btnAdd" (click)="addPToCategoriesValueToShow()"> הוסף ערך חדש לקטגוריה</button> -->
+
+              </div>
+            </div>
+            <div class="col-md-7">
+              <div class="form-group" style="margin-top: 40px;">
+                <label for="catergoties">קטגוריות:</label>
+                <select class="form-control" name="descreption2" [(ngModel)]="descreption2" (change)="addC()">
+                  <option id="catergoties" *ngFor="let item of categories">{{item.descreption}} </option>
+                </select>
+                <div class="form-group" style="margin-top: 75px;">
+                  <label for="catergotiesV">ערכי קטגוריה:</label>
+                  <select class="form-control" name="valueCatName" [(ngModel)]="valueCatName">
+                    <option id="catergotiesV" *ngFor="let c of categoriesValueToShow">{{c.name}}</option>
+                  </select>
+                  <!-- <input type="button" class="btnAdd" value="אישור" (click)="selectCategoryValue()"> -->
+                  <button  data-toggle="modal" data-target="#addCategoryModal" class="btnAdd" (click)="selectCategoryValue()"> אישור</button>
+
+                </div>
+              </div>
+
+            </div>
+
+          </div>
+          <br>
+          <br>
+          <br>
+          <br><br>
+        </div>
+      </fieldset>
+    </form>
+    <a (click)="send()"> <button class="btn btn-info button1"> שמירה<i class="fa fa-arrow-left white marginR"></i>
+      </button></a>
+
+  </div>
+
+</body>
+
+
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+aria-hidden="true">
+<div class="modal-dialog" role="document">
+  <div class="modal-content">
+    <div class="modal-header">
+      <h5 class="modal-title" id="exampleModalLabel">הרכיב החדש נוסף לרשימת הרכיבים </h5>
+    </div>
+    
+    <div class="modal-footer">
+      <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+    </div>
+  </div>
+</div>
+</div>
+
+
+<div class="modal fade" id="NewCategoryModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+aria-hidden="true">
+<div class="modal-dialog" role="document">
+  <div class="modal-content">
+    <div class="modal-header">
+      <h5 class="modal-title" id="exampleModalLabel">הקטגוריה החדשה נוספה לרשימת הקטגוריות  </h5>
+    </div>
+    
+    <div class="modal-footer">
+      <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+    </div>
+  </div>
+</div>
+</div>
+
+<div class="modal fade" id="NewCategoryModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+aria-hidden="true">
+<div class="modal-dialog" role="document">
+  <div class="modal-content">
+    <div class="modal-header">
+      <h5 class="modal-title" id="exampleModalLabel">הערך החדש נוסף לקטגוריה  </h5>
+    </div>
+    
+    <div class="modal-footer">
+      <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+    </div>
+  </div>
+</div>
+</div>
+
+<div class="modal fade" id="addCategoryModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+aria-hidden="true">
+<div class="modal-dialog" role="document">
+  <div class="modal-content">
+    <div class="modal-header">
+      <h5 class="modal-title" id="exampleModalLabel">הקטגוריה התעדכנה במתכון </h5>
+    </div>
+    
+    <div class="modal-footer">
+      <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+    </div>
+  </div>
+</div>
+</div>

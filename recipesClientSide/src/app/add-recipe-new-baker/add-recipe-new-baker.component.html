@@ -1,0 +1,201 @@
+<body>
+  <div id="div1" dir="rtl">
+
+    <form action="/action_page.php" class="marginAuto">
+      <fieldset class="fieldset1">
+        <legend style="text-align: right; padding-right: 80px;">טופס הוספת מתכון:</legend>
+        <div id="div3">
+
+
+
+
+          <label for="nameRecipe">הכנס שם מתכון:</label>
+          <div class="input-icons">
+            <i class="fa fa-edit fa-2x iconInput"></i>
+            <input type="text" id="nameRecipe" class="form-control inputColer inputSize marginAuto"
+              [(ngModel)]="myNewRecipe.NRecipe.name" placeholder=" שם מתכון" id="email" name="nameR" placeholder="">
+          </div>
+          <div style="width: 45%; float: right;">
+            <div class="form-group">
+              <label for="comment">הוראות הכנה:</label>
+              <div class="input-icons">
+                <i class="fa fa-edit fa-2x iconInputC"></i>
+                <!-- <textarea style="height: 20vh;" class="form-control inputColer" rows="5" id="comment" [(ngModel)]="myNewRecipe.NRecipe.instruction" placeholder="הכנס הוראות הכנה"  name="instruction"></textarea> -->
+                <textarea id="instruction" style="height: 20vh;" class="form-control inputColer inputSize marginAuto"
+                  [(ngModel)]="myNewRecipe.NRecipe.instruction" placeholder=" הכנס הוראות הכנה"
+                  name="instruction"> </textarea>
+              </div>
+            </div>
+          </div>
+          <!-- <div style="width:50%; float: left;">
+          <label>בחר תמונה:</label>
+          <div class="input-icons"> 
+          <i class="material-icons iconInputImage" style="z-index: 1 !important;">add_a_photo</i>
+          <input type="file" class="form-control inputColer inputSize marginAuto" (change)="mychange($event)" [(ngModel)]="myNewRecipe.NRecipe.image"style="height: 20vh;" name="pic">
+          <button (click)="upLoad()">העלה</button>
+          <img *ngIf="flag" src="http://localhost:52298//pictures/{{myNewRecipe.NRecipe.image}}">
+        </div>
+          
+          </div> -->
+
+          <div style="width:50%; float: left;" class="relate">
+            <label>בחר תמונה:</label>
+            <button class="download" (click)="upLoad()"><span class="downloadWord">העלה</span></button>
+            <div class="input-icons" id="input_container">
+              <i class="material-icons iconInputImage" style="z-index: 1 !important;">add_a_photo</i>
+              <input id="input" style="height: 20vh;" type="file" class="form-control inputColer inputSize marginAuto"
+                (change)="mychange($event)" [(ngModel)]="myNewRecipe.NRecipe.image" placeholder="הכנס תמונה" name="pic">
+
+              <img *ngIf="flag" src="http://localhost:52298//pictures/{{myNewRecipe.NRecipe.image}}" id="input_img">
+            </div>
+          </div>
+
+
+          <div class="input-icons" style="width: 100%;float: left;">
+            <label>זמן הכנה </label>
+            <br>
+            <input class="inputColer form-control inputColer inputSize marginAuto" type="time" name="Time"
+              [(ngModel)]="myNewRecipe.NRecipe.time" style="width: 100%;">
+          </div>
+          <div class="input-icons" style="width: 100%; float: right;">
+            <label>הכנס מספר מנות</label>
+            <br>
+            <input class="inputColer form-control inputColer inputSize marginAuto" type="number"
+              [(ngModel)]="myNewRecipe.NRecipe.numPortion" name="numPortion" min="1" style=" float: left;">
+          </div>
+          <br>
+
+
+
+
+          <div *ngFor="let item of myNewRecipe.NListIng;let i=index" class="row">
+            <div class="col-md-5">
+
+              <div *ngIf="item.IsNew==true">
+
+                <div class="form-group">
+                  <label for="productName">שם רכיב:</label>
+                  <select name="ll" id="productName" class="form-control" [(ngModel)]="p2.product.name">
+                    <option class="inputColer " *ngFor="let i1 of ListProduct">
+                      <p *ngIf="myNewRecipe.NListIng[i].name">{{item.product.name}}</p>
+                      {{i1.name}}
+                    </option>
+                  </select>
+                  <label for="amount">כמות:</label>
+                  <input id="amount" class="inputColer form-control" type="number" min="0" name="cnt"
+                    [value]="item.amount" [(ngModel)]="p2.amount">
+                  <button (click)="addProduct()" class="btnAdd">הוסף</button>
+                  <br>
+                  <h4 style="color: rgb(124, 124, 124);">הוספת רכיב לרשימת הרכיבים</h4>
+                  <label for="productN">שם מוצר:</label>
+                  <input id="productN" type="text" class="inputColer form-control" name="name"
+                    [(ngModel)]="newRechiv.name" placeholder="הכנס שם">
+                  <label for="price">מחיר:</label>
+                  <input type="text" class="form-control" id="price" name="avgPrice" [(ngModel)]="newRechiv.avgPrice"
+                    placeholder=" הכנס מחיר">
+                  <input type="button" class="btnAdd" value="הוסף" (click)="addPToList()">
+
+
+
+                </div>
+
+
+              </div>
+            </div>
+
+            <div class="col-md-6" id="tableOfIngredients">
+              <tr *ngIf="item.IsNew==true">רשימת המוצרים</tr>
+              <tr *ngIf="item.IsNew==true">
+                <th style="text-align: center;">שם מוצר</th>
+                <th>כמות ל- 100 גרם</th>
+              </tr>
+              <tr *ngIf="item.IsNew!=true">
+                <td>{{myNewRecipe.NListIng[i].product.name}}</td>
+                <td>{{myNewRecipe.NListIng[i].amount}}</td>
+              </tr>
+            </div>
+
+            <!--  ---------------- {{item.product.name}}--{{item.amount}} -->
+
+          </div>
+
+
+
+
+
+          <div>
+
+            <div class="col-md-5">
+              <h4 style="color: rgb(124, 124, 124);">הוספת קטגוריה לרשימת הקטגוריות</h4>
+              <div class="form-group" style=" width: 103%;">
+                <label for="categoryName">שם קטגוריה</label>
+                <input id="categoryName" type="text" class="form-control" name="nameCat"
+                  [(ngModel)]="newCategory.descreption" placeholder="הכנס שם קטגוריה">
+                <input type="button" class="btnAdd" value="הוסף" (click)="addCategory()">
+              </div>
+              <h4 style="color: rgb(124, 124, 124); margin-top: 40px;">הוספת ערך לקטגוריה זו</h4>
+              <div class="form-group" style=" width: 103%; margin-bottom: 250px;">
+                <label for="categoryValue">ערך קטגוריה</label>
+                <input id="categoryValue" type="text" class="inputColer form-control" name="nameCatVal"
+                  [(ngModel)]="newCategoryValue.name" placeholder="הכנס ערך קטגוריה">
+                <input type="button" class="btnAdd" value="הוסף" (click)="addPToCategoriesValueToShow()">
+              </div>
+            </div>
+            <div class="col-md-7">
+              <div class="form-group" style="margin-top: 40px;">
+                <label for="catergoties">קטגוריות:</label>
+                <select class="form-control" name="descreption2" [(ngModel)]="descreption2" (change)="addC()">
+                  <option id="catergoties" *ngFor="let item of categories">{{item.descreption}} </option>
+                </select>
+                <div class="form-group" style="margin-top: 75px;">
+                  <label for="catergotiesV">ערכי קטגוריה:</label>
+                  <select class="form-control" name="valueCatName" [(ngModel)]="valueCatName">
+                    <option id="catergotiesV" *ngFor="let c of categoriesValueToShow">{{c.name}}</option>
+                  </select>
+                  <input type="button" class="btnAdd" value="אישור" (click)="selectCategoryValue()">
+                </div>
+              </div>
+
+            </div>
+
+          </div>
+          <br>
+
+          <br>
+
+
+          <br>
+          <!-- <button class="sub" (click)="send()">אישור</button> -->
+          <br><br>
+
+
+        </div>
+      </fieldset>
+    </form>
+    <a (click)="send()"> <button class="btn btn-info button1"> לסיום<i class="fa fa-arrow-left white marginR"></i>
+      </button></a>
+    <button class="btn btn-info button2" [routerLink]="['/LogIn/2']"><i
+        class="fa fa fa-arrow-right white marginL"></i>הקודם</button>
+    <button type="button" class="btn btn-info d-flex justify-content-center align-items-center button3"
+      (click)="clickHome()" ><i
+        class="fa fa-home fa-2x white"></i></button>
+
+
+
+
+  </div>
+
+  <div id="div2" class="d-flex justify-content-center align-items-center">
+    <div class="divStep divStepF"><button class="step stepF" [routerLink]="['/chooseLogIn']">1</button></div>
+    <div class="line"></div>
+    <div class="divStep"><button class="step stepF" [routerLink]="['/AboutBaker']">2</button></div>
+    <div class="line"></div>
+    <div class="divStep"><button class="step stepF" [routerLink]="['/LogIn/2']">3</button></div>
+    <div class="line"></div>
+    <div class="divStep"><button class="step stepC">4</button></div>
+
+  </div>
+
+
+
+</body>

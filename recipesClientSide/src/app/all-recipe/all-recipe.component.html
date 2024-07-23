@@ -1,0 +1,296 @@
+<!-- <head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</head> -->
+<div class="all">
+  <div style="height: 50px;"></div>
+  <!-- <img src="http://localhost:52298/pictures/logo1.jpg " style="height: 100px; width: 100px;"> -->
+
+
+
+
+  <h2 *ngIf="userS.status==3">שלום ל{{this.user.name}} היקר</h2>
+  <i *ngIf="userS.status==3" class="glyphicon glyphicon-user" style="font-size:48px;color: cornflowerblue;"></i>
+  <p *ngIf="userS.status==3">משתמש</p>
+
+  <h2 *ngIf="userS.status==2">שלום ל{{this.baker.name}} היקר</h2>
+  <p *ngIf="userS.status==2">שף</p>
+  <!-- <p *ngIf="userS.status==2">{{this.baker.logo}}</p> -->
+
+  <img *ngIf="userS.status==2" src="http://localhost:52298/pictures/{{this.baker.logo}}" style="width: 100px; height: 100px;">
+  <i *ngIf="userS.status==2" class="material-icons" style="font-size:48px;color:cornflowerblue">cake</i>
+ 
+ <div class="bord">
+   <div class="bord2">
+  <div id="myCarousel" class="carousel slide center crsl" data-ride="carousel">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+      <li data-target="#myCarousel" data-slide-to="1"></li>
+      <li data-target="#myCarousel" data-slide-to="2"></li>
+      <li data-target="#myCarousel" data-slide-to="3"></li>
+      <li data-target="#myCarousel" data-slide-to="4"></li>
+      <li data-target="#myCarousel" data-slide-to="5"></li>
+      <li data-target="#myCarousel" data-slide-to="6"></li>
+      <li data-target="#myCarousel" data-slide-to="7"></li>
+      <li data-target="#myCarousel" data-slide-to="8"></li>
+      <li data-target="#myCarousel" data-slide-to="9"></li>
+      <li data-target="#myCarousel" data-slide-to="10"></li>
+      <li data-target="#myCarousel" data-slide-to="11"></li>
+      <!-- <li data-target="#myCarousel" data-slide-to="12"></li> -->
+    </ol>
+    <div class="carousel-inner center crsl" role="listbox">
+      <div class="item active center">
+        <img src="http://localhost:52298/picture/55.jpg" class="img center">
+      </div>
+  
+      <div class="item center">
+        <img src="http://localhost:52298/picture/33.jpg" class="img center">
+      </div>
+  
+      <div class="item center">
+        <img src="http://localhost:52298/picture/34.jpg" class="img center">
+      </div>
+  
+      <div class="item center">
+        <img src="http://localhost:52298/picture/22.jpg" class="img center">
+      </div>
+  
+      <div class="item center">
+        <img src="http://localhost:52298/picture/56.jpg" class="img center">
+      </div>
+  
+      <div class="item center">
+        <img src="http://localhost:52298/picture/54.jpg" class="img center">
+      </div>
+  
+      <div class="item center">
+        <img src="http://localhost:52298/picture/53.jpg" class="img center">
+      </div>
+  
+      <div class="item center">
+        <img src="http://localhost:52298/picture/52.jpg" class="img center">
+      </div>
+  
+      <div class="item center">
+        <img src="http://localhost:52298/picture/50.jpg" class="img center">
+      </div>
+  
+      <div class="item center">
+        <img src="http://localhost:52298/picture/49.jpg" class="img center">
+      </div>
+  
+      <div class="item center">
+        <img src="http://localhost:52298/picture/22.jpg" class="img center">
+      </div>
+  
+      <div class="item center">
+        <img src="http://localhost:52298/picture/60.jpg" class="img center">
+      </div>
+    </div>
+  
+  
+    <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+      <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+      <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
+  </div>
+</div>
+</div>
+  <!-- <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+
+<a class="navbar-brand" href="#">Logo</a>
+
+
+<ul class="navbar-nav">
+ <li class="nav-item">
+   <a class="nav-link" href="#">Link 1</a>
+ </li>
+ <li class="nav-item">
+   <a class="nav-link" href="#">Link 2</a>
+ </li> -->
+
+  <!-- Dropdown -->
+  <!-- <li class="nav-item dropdown">
+   <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+     Dropdown link
+   </a>
+   <div class="dropdown-menu">
+     <a class="dropdown-item" href="#">Link 1</a>
+     <a class="dropdown-item" href="#">Link 2</a>
+     <a class="dropdown-item" href="#">Link 3</a>
+   </div>
+ </li>
+</ul>
+</nav>
+<br> -->
+
+  <div class="container">
+
+  </div>
+
+  <!-- <nav class="navbar navbar-inverse">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="#">WebSiteName</a>
+      </div>
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="#">דף הבית</a></li>
+        <li><a [routerLink]="['/chooseLogIn']">רישום</a></li>
+        <li><a [routerLink]="['/identifaction']">הזדהות</a></li>
+        <li class="dropdown">
+          <a class="dropdown" data-toggle="dropdown" href="#">חיפוש בקליק
+            <span class="caret"></span></a>
+          <ul class="dropdown">
+            <li><a [routerLink]="['/SearchByPrice']">חיפוש לפי מחיר</a></li>
+            <li><a [routerLink]="['/SearchByBaker']">חיפוש לפי שף</a></li>
+            <li><a [routerLink]="['/SearchByCategory']">חיפוש לפי סיווג מתכון</a></li>
+            <li><a [routerLink]="['/SearchByGrade']">חיפוש לפי דרוג</a></li>
+            <li><a [routerLink]="['/SearchByTime']">חיפש לפי זמן הכנה</a></li>
+          </ul>
+        </li>
+        <li><a [routerLink]="['/AllBakers']">כל השפים</a></li> -->
+
+
+
+
+        <!-- <li><a [routerLink]="['/AddRecipeNewBaker']">AddRecipeNewBaker</a></li> -->
+        <!-- <li><a [routerLink]="['/chooseLogIn']">עchooseLogIn</a></li> -->
+
+
+        <!-- <li ><a [routerLink]="['/updatePrice']">עדכון מחיר מוצר</a></li>
+        <li *ngIf="userS.status==2"><a [routerLink]="['/AddRecipe']">הוספת מתכון</a></li> -->
+
+
+        <!-- <li *ngIf="userS.status==2"><a [routerLink]="['/UpdateDetails']">עריכת מתכון</a></li> -->
+        
+        <!-- <li *ngIf="this.userS.status==2"><a [routerLink]="['/MyRecips']">עדכון מתכון</a></li>
+        <li *ngIf="this.userS.status==2"><a [routerLink]="['/MyRecips2']"> המתכונים שלי</a></li>
+        <li *ngIf="this.userS.status==3"><a [routerLink]="['/AddGrade']">הוסף דרוג</a></li>
+
+        <li class="dropdown">
+          <a class="dropdown" data-toggle="dropdown" href="#">הדרוגים שלי
+            <span class="caret"></span></a>
+          <ul class="dropdown">
+            <li><a [routerLink]="['/AllGrade']">צפיה בכל הדרוגים</a></li>
+            <li *ngIf="this.userS.status==2"><a [routerLink]="['/leaderBaker']">אני ביחס לשפים</a></li>
+            <li *ngIf="this.userS.status==2"><a [routerLink]="['/AvgGrade']">הדרוגים שלי</a></li>
+            <li><a [routerLink]="['/favoriteRecipe']">המתכון האהוב ביותר</a></li>
+            <li><a [routerLink]="['/LeaderBaker']">סולם השפים</a></li>
+          </ul>
+        </li> -->
+        <!-- <li><a [routerLink]="['/AllBakers']">סולם השפים</a></li> -->
+      <!-- </ul>
+    </div>
+  </nav> -->
+
+<mat-form-field appearance="fill">
+  <mat-label>חיפוש בקליק</mat-label>
+  <mat-select [(value)]="selected" name="search" id="search" (change)="searchBy()" [(ngModel)]="choose">    
+    <mat-option value="0">כל המתכונים </mat-option>
+    <mat-option value="1"> חיפוש לפי מחיר</mat-option>
+    <mat-option value="2"> חיפוש לפי שף</mat-option>
+    <mat-option value="3">חיפוש לפי קטגוריה</mat-option>
+    <mat-option value="4">חיפוש לפי זמן הכנה</mat-option>
+    <mat-option value="5">חיפוש לפי דרוג</mat-option>
+  </mat-select>
+</mat-form-field>
+
+
+<div *ngIf="selected==1">
+  <app-search-by-price></app-search-by-price>
+</div>
+<div *ngIf="choose==2">
+  <app-search-by-baker></app-search-by-baker>
+</div>
+<div *ngIf="choose==3">
+  <app-search-by-category></app-search-by-category>
+</div>
+<div *ngIf="choose==4">
+  <app-search-by-time></app-search-by-time>
+</div>
+<div *ngIf="choose==5">
+  <app-search-by-grade></app-search-by-grade>
+</div>
+
+
+
+
+  <div class="row">
+    <div class="col-md-4 mt-5 mr-5" *ngFor="let item of recipeService.recipes; let i=index">
+      <div class="rec mt-5 mr-5 "  >
+        <img src="http://localhost:52298/picture/{{item.image}}" class="image">
+        <p class="nameRecipe">{{item.name}}</p>
+        <h2 *ngIf="choose==4"> זמן הכנה: {{item.time}} </h2>
+        <h2 *ngIf="choose==2">מאת: {{this.recipeService.bakerName }}</h2>
+        <h2 *ngIf="choose==3">  {{this.recipeService.category}}   : {{this.recipeService.valCategory }}</h2>
+<div>
+  <button [routerLink]="['/watchRecipe',item.id]" mat-flat-button class="btn">צפיה במתכון</button>
+  <button [routerLink]="['/watchGrade',item.id]" mat-flat-button class="btn">צפיה בדרוגים</button>
+</div>
+
+        <div *ngIf="choose==1 && this.recipeService.listPrice.length>0">
+          <!-- {{this.recipeService.listPrice[i]}} -->
+          <h4 class="center"> המחיר ל {{this.recipeService.numPos}} מנות הוא {{this.recipeService.listPrice[i]|number:'1.0-0'}} ש"ח
+          </h4>
+        </div>
+
+
+
+        <!-- <div class="col-md-6"> -->
+          <div class="mt-5 mr-5 center"  *ngIf="choose==5 && this.recipeService.listSearchG.length>0">
+            <h4>הציון הממוצע של {{item.name}} הוא {{recipeService.listSearchG[i]|number}}</h4>
+            <svg *ngIf="this.recipeService.listSearchG[i]>=1" width="2em" height="2em" viewBox="0 0 16 16"
+              class="bi bi-star-fill" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+              <path
+                d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.283.95l-3.523 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z" />
+            </svg>
+            <svg *ngIf="this.recipeService.listSearchG[i]>=2" width="2em" height="2em" viewBox="0 0 16 16"
+              class="bi bi-star-fill" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+              <path
+                d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.283.95l-3.523 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z" />
+            </svg>
+            <svg *ngIf="this.recipeService.listSearchG[i]>=3" width="2em" height="2em" viewBox="0 0 16 16"
+              class="bi bi-star-fill" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+              <path
+                d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.283.95l-3.523 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z" />
+            </svg>
+            <svg *ngIf="this.recipeService.listSearchG[i]>=4" width="2em" height="2em" viewBox="0 0 16 16"
+              class="bi bi-star-fill" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+              <path
+                d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.283.95l-3.523 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z" />
+            </svg>
+            <svg *ngIf="this.recipeService.listSearchG[i]>=5" width="2em" height="2em" viewBox="0 0 16 16"
+              class="bi bi-star-fill" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+              <path
+                d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.283.95l-3.523 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z" />
+            </svg>
+
+            <i *ngIf="(this.recipeService.listSearchG[i]>1&&this.recipeService.listSearchG[i]<2)||(this.recipeService.listSearchG[i]>2&&this.recipeService.listSearchG[i]<3)
+          ||(this.recipeService.listSearchG[i]>3&&this.recipeService.listSearchG[i]<4)||(this.recipeService.listSearchG[i]>4&&this.recipeService.listSearchG[i]<5)||(this.recipeService.listSearchG[i]>5&&this.recipeService.listSearchG[i]<6)"
+              width="2em" height="2em" class="fa">&#xf123;</i>
+          </div>
+        <!-- </div> -->
+      <!-- </div>
+    </div> -->
+
+
+   
+  </div>
+</div>
+</div>
+
+
+
+<button (click)="sendMail()">לחץ עלי</button>
+
+</div>

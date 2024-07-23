@@ -1,0 +1,31 @@
+
+<body>
+  <div id="div1">
+    <form>
+      <fieldset class="fieldset1">
+        <legend style="text-align: right; padding-right: 80px;">:טופס סטטוס רישום </legend>
+    
+    <input type="radio" name="status" id="user"  (click)="click1(1)" style=" margin-right: 40px;">
+    <label for="user">:הצטרפות כמשתמש</label>
+    
+
+
+   <br>
+    <input type="radio" name="status" id="baker"  (click)="click1(2)" style="margin-right: 57px;">
+    <label for="baker">:הצטרפות כשף</label>
+    <button class="btn btn-info button1" (click)="click2()"><i class="fa fa-arrow-left white marginR"></i> להמשך</button>
+    <button class="btn btn-info button2" [routerLink]="['/']">הקודם<i class="fa fa-arrow-right white marginL"></i> </button>
+
+    
+    <button class="btn btn-info d-flex justify-content-center align-items-center button3" [routerLink]="['/']"><i class="fa fa-home fa-2x white"></i></button>
+    </fieldset>  
+  </form>
+  </div>
+  <div id="div2" class="d-flex justify-content-center align-items-center">
+      <div class="divStep divStepF" ><button class="step stepC" >1</button></div>
+      <div class="line"></div>
+      <div class="divStep" ><button class="step" (click)="click2()">2</button></div>
+      <div class="line"></div>
+      <div class="divStep" ><button class="step" disabled>3</button></div>
+  </div>
+</body>

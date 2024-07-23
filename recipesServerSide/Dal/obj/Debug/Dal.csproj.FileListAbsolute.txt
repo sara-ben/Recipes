@@ -1,0 +1,239 @@
+G:\Server\Dal\bin\Debug\Dal.dll.config
+G:\Server\Dal\bin\Debug\Dal.dll
+G:\Server\Dal\bin\Debug\Dal.pdb
+G:\Server\Dal\bin\Debug\EntityFramework.dll
+G:\Server\Dal\bin\Debug\EntityFramework.SqlServer.dll
+G:\Server\Dal\bin\Debug\EntityFramework.xml
+G:\Server\Dal\bin\Debug\EntityFramework.SqlServer.xml
+G:\Server\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+G:\Server\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+G:\Server\Dal\obj\Debug\Dal.csproj.CopyComplete
+G:\Server\Dal\obj\Debug\Dal.dll
+G:\Server\Dal\obj\Debug\Dal.pdb
+D:\הפרויקט מתכונים שלנו\מעודכן ל14Server\Dal\bin\Debug\Dal.dll.config
+D:\הפרויקט מתכונים שלנו\מעודכן ל14Server\Dal\bin\Debug\Dal.dll
+D:\הפרויקט מתכונים שלנו\מעודכן ל14Server\Dal\bin\Debug\Dal.pdb
+D:\הפרויקט מתכונים שלנו\מעודכן ל14Server\Dal\bin\Debug\EntityFramework.dll
+D:\הפרויקט מתכונים שלנו\מעודכן ל14Server\Dal\bin\Debug\EntityFramework.SqlServer.dll
+D:\הפרויקט מתכונים שלנו\מעודכן ל14Server\Dal\bin\Debug\EntityFramework.xml
+D:\הפרויקט מתכונים שלנו\מעודכן ל14Server\Dal\bin\Debug\EntityFramework.SqlServer.xml
+D:\הפרויקט מתכונים שלנו\מעודכן ל14Server\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+D:\הפרויקט מתכונים שלנו\מעודכן ל14Server\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+D:\הפרויקט מתכונים שלנו\מעודכן ל14Server\Dal\obj\Debug\Dal.csproj.CopyComplete
+D:\הפרויקט מתכונים שלנו\מעודכן ל14Server\Dal\obj\Debug\Dal.dll
+D:\הפרויקט מתכונים שלנו\מעודכן ל14Server\Dal\obj\Debug\Dal.pdb
+D:\הפרויקט מתכונים שלנו\3Server\Dal\bin\Debug\Dal.dll.config
+D:\הפרויקט מתכונים שלנו\3Server\Dal\bin\Debug\Dal.dll
+D:\הפרויקט מתכונים שלנו\3Server\Dal\bin\Debug\Dal.pdb
+D:\הפרויקט מתכונים שלנו\3Server\Dal\bin\Debug\EntityFramework.dll
+D:\הפרויקט מתכונים שלנו\3Server\Dal\bin\Debug\EntityFramework.SqlServer.dll
+D:\הפרויקט מתכונים שלנו\3Server\Dal\bin\Debug\EntityFramework.xml
+D:\הפרויקט מתכונים שלנו\3Server\Dal\bin\Debug\EntityFramework.SqlServer.xml
+D:\הפרויקט מתכונים שלנו\3Server\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+D:\הפרויקט מתכונים שלנו\3Server\Dal\obj\Debug\Dal.csproj.CopyComplete
+D:\הפרויקט מתכונים שלנו\3Server\Dal\obj\Debug\Dal.dll
+D:\הפרויקט מתכונים שלנו\3Server\Dal\obj\Debug\Dal.pdb
+C:\Users\User\Desktop\הפרויקט!!!\3Server\Dal\bin\Debug\Dal.dll.config
+C:\Users\User\Desktop\הפרויקט!!!\3Server\Dal\bin\Debug\Dal.dll
+C:\Users\User\Desktop\הפרויקט!!!\3Server\Dal\bin\Debug\Dal.pdb
+C:\Users\User\Desktop\הפרויקט!!!\3Server\Dal\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\הפרויקט!!!\3Server\Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\הפרויקט!!!\3Server\Dal\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\הפרויקט!!!\3Server\Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\הפרויקט!!!\3Server\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+C:\Users\User\Desktop\הפרויקט!!!\3Server\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\הפרויקט!!!\3Server\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\User\Desktop\הפרויקט!!!\3Server\Dal\obj\Debug\Dal.dll
+C:\Users\User\Desktop\הפרויקט!!!\3Server\Dal\obj\Debug\Dal.pdb
+C:\Users\User\Desktop\pgggg\3Server\Dal\bin\Debug\Dal.dll.config
+C:\Users\User\Desktop\pgggg\3Server\Dal\bin\Debug\Dal.dll
+C:\Users\User\Desktop\pgggg\3Server\Dal\bin\Debug\Dal.pdb
+C:\Users\User\Desktop\pgggg\3Server\Dal\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\pgggg\3Server\Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\pgggg\3Server\Dal\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\pgggg\3Server\Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\pgggg\3Server\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+C:\Users\User\Desktop\pgggg\3Server\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\pgggg\3Server\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\User\Desktop\pgggg\3Server\Dal\obj\Debug\Dal.dll
+C:\Users\User\Desktop\pgggg\3Server\Dal\obj\Debug\Dal.pdb
+C:\Users\User\Desktop\2708\3Server\Dal\bin\Debug\Dal.dll.config
+C:\Users\User\Desktop\2708\3Server\Dal\bin\Debug\Dal.dll
+C:\Users\User\Desktop\2708\3Server\Dal\bin\Debug\Dal.pdb
+C:\Users\User\Desktop\2708\3Server\Dal\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\2708\3Server\Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\2708\3Server\Dal\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\2708\3Server\Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\2708\3Server\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+C:\Users\User\Desktop\2708\3Server\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\2708\3Server\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\User\Desktop\2708\3Server\Dal\obj\Debug\Dal.dll
+C:\Users\User\Desktop\2708\3Server\Dal\obj\Debug\Dal.pdb
+C:\Users\User\Desktop\0409\S0409\Dal\bin\Debug\Dal.dll.config
+C:\Users\User\Desktop\0409\S0409\Dal\bin\Debug\Dal.dll
+C:\Users\User\Desktop\0409\S0409\Dal\bin\Debug\Dal.pdb
+C:\Users\User\Desktop\0409\S0409\Dal\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\0409\S0409\Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\0409\S0409\Dal\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\0409\S0409\Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\0409\S0409\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+C:\Users\User\Desktop\0409\S0409\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\0409\S0409\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\User\Desktop\0409\S0409\Dal\obj\Debug\Dal.dll
+C:\Users\User\Desktop\0409\S0409\Dal\obj\Debug\Dal.pdb
+C:\Users\User\Desktop\0909\S0409\Dal\bin\Debug\Dal.dll.config
+C:\Users\User\Desktop\0909\S0409\Dal\bin\Debug\Dal.dll
+C:\Users\User\Desktop\0909\S0409\Dal\bin\Debug\Dal.pdb
+C:\Users\User\Desktop\0909\S0409\Dal\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\0909\S0409\Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\0909\S0409\Dal\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\0909\S0409\Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\0909\S0409\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+C:\Users\User\Desktop\0909\S0409\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\0909\S0409\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\User\Desktop\0909\S0409\Dal\obj\Debug\Dal.dll
+C:\Users\User\Desktop\0909\S0409\Dal\obj\Debug\Dal.pdb
+C:\Users\User\Desktop\1110\S1110\Dal\bin\Debug\Dal.dll.config
+C:\Users\User\Desktop\1110\S1110\Dal\bin\Debug\Dal.dll
+C:\Users\User\Desktop\1110\S1110\Dal\bin\Debug\Dal.pdb
+C:\Users\User\Desktop\1110\S1110\Dal\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\1110\S1110\Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\1110\S1110\Dal\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\1110\S1110\Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\1110\S1110\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+C:\Users\User\Desktop\1110\S1110\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\1110\S1110\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\User\Desktop\1110\S1110\Dal\obj\Debug\Dal.dll
+C:\Users\User\Desktop\1110\S1110\Dal\obj\Debug\Dal.pdb
+C:\Users\User\Desktop\3110\S3110\Dal\bin\Debug\Dal.dll.config
+C:\Users\User\Desktop\3110\S3110\Dal\bin\Debug\Dal.dll
+C:\Users\User\Desktop\3110\S3110\Dal\bin\Debug\Dal.pdb
+C:\Users\User\Desktop\3110\S3110\Dal\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\3110\S3110\Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\3110\S3110\Dal\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\3110\S3110\Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\3110\S3110\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+C:\Users\User\Desktop\3110\S3110\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\3110\S3110\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\User\Desktop\3110\S3110\Dal\obj\Debug\Dal.dll
+C:\Users\User\Desktop\3110\S3110\Dal\obj\Debug\Dal.pdb
+C:\Users\User\Desktop\אפים\2211\S0911\Dal\bin\Debug\Dal.dll.config
+C:\Users\User\Desktop\אפים\2211\S0911\Dal\bin\Debug\Dal.dll
+C:\Users\User\Desktop\אפים\2211\S0911\Dal\bin\Debug\Dal.pdb
+C:\Users\User\Desktop\אפים\2211\S0911\Dal\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\אפים\2211\S0911\Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\אפים\2211\S0911\Dal\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\אפים\2211\S0911\Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\אפים\2211\S0911\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+C:\Users\User\Desktop\אפים\2211\S0911\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\אפים\2211\S0911\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\User\Desktop\אפים\2211\S0911\Dal\obj\Debug\Dal.dll
+C:\Users\User\Desktop\אפים\2211\S0911\Dal\obj\Debug\Dal.pdb
+C:\Users\User\Desktop\2607\S0911\Dal\bin\Debug\Dal.dll.config
+C:\Users\User\Desktop\2607\S0911\Dal\bin\Debug\Dal.dll
+C:\Users\User\Desktop\2607\S0911\Dal\bin\Debug\Dal.pdb
+C:\Users\User\Desktop\2607\S0911\Dal\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\2607\S0911\Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\2607\S0911\Dal\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\2607\S0911\Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\2607\S0911\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+C:\Users\User\Desktop\2607\S0911\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\2607\S0911\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\User\Desktop\2607\S0911\Dal\obj\Debug\Dal.dll
+C:\Users\User\Desktop\2607\S0911\Dal\obj\Debug\Dal.pdb
+C:\Users\User\Desktop\0812\S0911\Dal\bin\Debug\Dal.dll.config
+C:\Users\User\Desktop\0812\S0911\Dal\bin\Debug\Dal.dll
+C:\Users\User\Desktop\0812\S0911\Dal\bin\Debug\Dal.pdb
+C:\Users\User\Desktop\0812\S0911\Dal\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\0812\S0911\Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\0812\S0911\Dal\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\0812\S0911\Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\0812\S0911\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+C:\Users\User\Desktop\0812\S0911\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\0812\S0911\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\User\Desktop\0812\S0911\Dal\obj\Debug\Dal.dll
+C:\Users\User\Desktop\0812\S0911\Dal\obj\Debug\Dal.pdb
+C:\Users\User\Desktop\0812\server\Dal\bin\Debug\Dal.dll.config
+C:\Users\User\Desktop\0812\server\Dal\bin\Debug\Dal.dll
+C:\Users\User\Desktop\0812\server\Dal\bin\Debug\Dal.pdb
+C:\Users\User\Desktop\0812\server\Dal\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\0812\server\Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\0812\server\Dal\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\0812\server\Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\0812\server\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+C:\Users\User\Desktop\0812\server\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\0812\server\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\User\Desktop\0812\server\Dal\obj\Debug\Dal.dll
+C:\Users\User\Desktop\0812\server\Dal\obj\Debug\Dal.pdb
+C:\Users\User\Desktop\1001\server\Dal\bin\Debug\Dal.dll.config
+C:\Users\User\Desktop\1001\server\Dal\bin\Debug\Dal.dll
+C:\Users\User\Desktop\1001\server\Dal\bin\Debug\Dal.pdb
+C:\Users\User\Desktop\1001\server\Dal\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\1001\server\Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\1001\server\Dal\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\1001\server\Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\1001\server\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+C:\Users\User\Desktop\1001\server\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\1001\server\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\User\Desktop\1001\server\Dal\obj\Debug\Dal.dll
+C:\Users\User\Desktop\1001\server\Dal\obj\Debug\Dal.pdb
+C:\Users\User\Desktop\1501\server1501\Dal\bin\Debug\Dal.dll.config
+C:\Users\User\Desktop\1501\server1501\Dal\bin\Debug\Dal.dll
+C:\Users\User\Desktop\1501\server1501\Dal\bin\Debug\Dal.pdb
+C:\Users\User\Desktop\1501\server1501\Dal\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\1501\server1501\Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\1501\server1501\Dal\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\1501\server1501\Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\1501\server1501\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+C:\Users\User\Desktop\1501\server1501\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\1501\server1501\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\User\Desktop\1501\server1501\Dal\obj\Debug\Dal.dll
+C:\Users\User\Desktop\1501\server1501\Dal\obj\Debug\Dal.pdb
+C:\Users\User\Desktop\3101\server1501\Dal\bin\Debug\Dal.dll.config
+C:\Users\User\Desktop\3101\server1501\Dal\bin\Debug\Dal.dll
+C:\Users\User\Desktop\3101\server1501\Dal\bin\Debug\Dal.pdb
+C:\Users\User\Desktop\3101\server1501\Dal\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\3101\server1501\Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\3101\server1501\Dal\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\3101\server1501\Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\3101\server1501\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+C:\Users\User\Desktop\3101\server1501\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\3101\server1501\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\User\Desktop\3101\server1501\Dal\obj\Debug\Dal.dll
+C:\Users\User\Desktop\3101\server1501\Dal\obj\Debug\Dal.pdb
+C:\Users\User\Desktop\1103\server1103\Dal\bin\Debug\Dal.dll.config
+C:\Users\User\Desktop\1103\server1103\Dal\bin\Debug\Dal.dll
+C:\Users\User\Desktop\1103\server1103\Dal\bin\Debug\Dal.pdb
+C:\Users\User\Desktop\1103\server1103\Dal\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\1103\server1103\Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\1103\server1103\Dal\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\1103\server1103\Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\1103\server1103\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+C:\Users\User\Desktop\1103\server1103\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\1103\server1103\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\User\Desktop\1103\server1103\Dal\obj\Debug\Dal.dll
+C:\Users\User\Desktop\1103\server1103\Dal\obj\Debug\Dal.pdb
+C:\Users\User\Desktop\פרויקט גמר     מהט\פרויקט מתכונים\אפים\1103\server1103\Dal\bin\Debug\Dal.dll.config
+C:\Users\User\Desktop\פרויקט גמר     מהט\פרויקט מתכונים\אפים\1103\server1103\Dal\bin\Debug\Dal.dll
+C:\Users\User\Desktop\פרויקט גמר     מהט\פרויקט מתכונים\אפים\1103\server1103\Dal\bin\Debug\Dal.pdb
+C:\Users\User\Desktop\פרויקט גמר     מהט\פרויקט מתכונים\אפים\1103\server1103\Dal\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\פרויקט גמר     מהט\פרויקט מתכונים\אפים\1103\server1103\Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\פרויקט גמר     מהט\פרויקט מתכונים\אפים\1103\server1103\Dal\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\פרויקט גמר     מהט\פרויקט מתכונים\אפים\1103\server1103\Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\פרויקט גמר     מהט\פרויקט מתכונים\אפים\1103\server1103\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+C:\Users\User\Desktop\פרויקט גמר     מהט\פרויקט מתכונים\אפים\1103\server1103\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\פרויקט גמר     מהט\פרויקט מתכונים\אפים\1103\server1103\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\User\Desktop\פרויקט גמר     מהט\פרויקט מתכונים\אפים\1103\server1103\Dal\obj\Debug\Dal.dll
+C:\Users\User\Desktop\פרויקט גמר     מהט\פרויקט מתכונים\אפים\1103\server1103\Dal\obj\Debug\Dal.pdb
+C:\Users\User\Desktop\פרויקט סופי\server1103\Dal\bin\Debug\Dal.dll.config
+C:\Users\User\Desktop\פרויקט סופי\server1103\Dal\bin\Debug\Dal.dll
+C:\Users\User\Desktop\פרויקט סופי\server1103\Dal\bin\Debug\Dal.pdb
+C:\Users\User\Desktop\פרויקט סופי\server1103\Dal\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\פרויקט סופי\server1103\Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\פרויקט סופי\server1103\Dal\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\פרויקט סופי\server1103\Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\פרויקט סופי\server1103\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\פרויקט סופי\server1103\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\User\Desktop\פרויקט סופי\server1103\Dal\obj\Debug\Dal.dll
+C:\Users\User\Desktop\פרויקט סופי\server1103\Dal\obj\Debug\Dal.pdb
+C:\Users\User\Desktop\פרויקט סופי\server1103\Dal\obj\Debug\Dal.csproj.AssemblyReference.cache

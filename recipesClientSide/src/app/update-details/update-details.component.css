@@ -1,0 +1,84 @@
+table{
+    width: 30%;
+    text-align: right;
+ }
+ /*.all{
+        margin-left: 15vh; */
+        /* margin-right: 25vh; */
+        /* margin-top: 10vh; */
+        /* direction: rtl;
+        width: 80%;
+        float: left;
+        background-color: white !important;
+        z-index: -1;
+        min-height: 70vh;
+        overflow: auto; 
+        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+        border-radius: 50px;
+       
+
+
+
+        line-height: 40px;
+        margin-top: 50px;
+        margin-right: 50px;
+        padding-top: 30px;
+        height: 680px;
+        top: 30px;
+        position: relative;
+        width: 80%;
+        float: left;
+        position: fixed;
+         scrollbar-width: 0 !important;
+ }*/
+
+ ::-webkit-scrollbar {
+    width:0em;
+    height:0em
+}
+
+ #div1{
+direction: rtl;
+    line-height: 40px;
+    border-radius: 50px;
+    background-color: white;
+    margin-top: 50px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    margin-right: 50px;
+    padding-top: 30px;
+    height: 680px;
+    top: 30px;
+    position: relative;
+    width: 80%;
+    float: left;
+    position: fixed;
+     overflow:auto;
+     scrollbar-width: 0 !important;
+
+}
+#div2{
+    margin-left: 3vw;
+    margin-right: 3vw;
+}
+label{
+    font-size:1vw;
+}
+.all{
+    direction: rtl;
+    width: 89%;
+    float: left;
+    background-color: white !important;
+    z-index: -1;
+    min-height: 70vh;
+    overflow: auto;
+    /* margin-top: 100px; */
+}
+.button1{
+    width: 150px;
+    height: 50px;
+    font-size: 25px;
+    /* float: left; */
+    position: fixed;
+    bottom: 80px;
+    left:110px;
+}

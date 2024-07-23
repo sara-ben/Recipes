@@ -1,0 +1,45 @@
+
+ 
+
+  <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+  aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">:הוספי דירוג {{useresS. name}}</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <input type="number" min="0" max="6" [(ngModel)]="grade" required />
+        <input type="text" [(ngModel)]="comment" />
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary" (click)="onClick2()" data-dismiss="modal">Save changes</button>
+      </div>
+    </div>
+  </div>
+</div>
+<div style="text-align: center;">
+  <div class="all">
+    <div class="input-group mb-3" style=" margin:auto;">
+    <input class="searchInput form-control" type="text" id="myInput" (change)="myFunction()" placeholder="Search for names.." title="Type in a name">
+   </div>
+    <table id="myTable" class="table table-bordered table-hover">
+      <tr id="tr1" *ngFor="let item of rwithNameBakers" data-toggle="modal" data-target="#exampleModal"
+      style="border: none;" (click)="onClick(item)">
+        <td>
+          <img class="img" src="http://localhost:52298/pictures/{{item.image}}" width="25%" (click)="onClick()">
+        </td>
+        <td>
+          <h4> <a class="link align-self-start" [routerLink]="['/watchRecipe',item.id]"><br><br>{{item.name}}</a></h4>
+        </td>
+        <td>
+          <b> <br><br>{{item.bakerName}}</b>
+        </td>
+      </tr>
+    </table>
+  </div>
+</div>

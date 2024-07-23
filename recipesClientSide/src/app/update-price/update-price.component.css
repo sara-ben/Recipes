@@ -1,0 +1,63 @@
+.input{
+    text-emphasis-color: rgb(255, 123, 145);;
+    width:200px;
+    height: 40px;
+}
+body{
+    direction: rtl;
+    min-height:2000px ;
+}
+.input2{
+
+    background-color:rgb(66, 60, 60);
+}
+.a{
+    background-color:  rgb(255, 123, 145);
+    text-decoration-color: rgb(255, 123, 145);
+}
+.b{
+    text-decoration-color: royalblue;
+}
+.center{
+ 
+    top: 50%;
+    right: 100%;
+    transform: translate(-35%, -5%);
+
+}
+
+.centeredh1{
+    position: absolute;
+    top: 10%;
+    transform: translate(-50%, -50%);
+   }
+   
+.centeredh{
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+   }
+   .w{
+      color:white; 
+   }
+   table{width: 30%;
+    text-align: right;}
+    .f30{
+    font-size: 30px;
+    color:rgb(253, 116, 253);
+    }
+    .f20{
+        font-size: 20px;
+        text-align:center;
+      }
+      td{
+          text-decoration: pink;
+          text-align: center;
+      } 
+      /* .searchInput{
+        margin-top:20px;
+      }
+     */
+
+     

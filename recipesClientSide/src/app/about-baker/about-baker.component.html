@@ -1,0 +1,30 @@
+
+<body>
+  <div id="div1">
+  <p class="title">שלום לך שף יקר</p>
+   <p>אנו שמחים שהצטרפתה לתוכנית טעים בקליק</p>
+  <p>מעת שהצטרפתה אלינו כשף יש לך את הפרבלגיה להכניס עוד מתכונים למאגר המתכונים העצום שבתוכניתינו</p>
+  <p>כמו כן, מתכוניך יהיו מדורגים מיותר מ - 1000 לקוחות שהצטרפו אלינו</p>
+  <p>השפים המובחרים יתנו לך טיפים והערות להמשך</p>
+  <p>כך שאנו בטוחים שהצרפותך תועיל לך רבות</p>
+  <p>אחת לחודש ינתן פרס כספי לאופה המדורג בציון הממוצע הגבוה ביותר</p>
+  <p> מאמינים בך שתתרום ותוסיף עוד הרבה מעבר</p> 
+  <p>טעים בקליק איתך תמיד</p> 
+   <a href="" [routerLink]="['/LogIn/2']"> <button class="btn btn-info button1" >  <i class="fa fa-arrow-left white marginR"></i> להמשך</button></a>
+   <button class="btn btn-info button2" [routerLink]="['/chooseLogIn']">הקודם<i class="fa fa fa-arrow-right white marginL"></i></button>
+   <button class="btn btn-info d-flex justify-content-center align-items-center button3"  [routerLink]="['/']"><i class="fa fa-home fa-2x white"></i></button>
+  
+  </div>
+  
+  <div id="div2" class="d-flex justify-content-center align-items-center">
+      <div class="divStep divStepF" ><button class="step stepF" [routerLink]="['/chooseLogIn']">1</button></div>
+      <div class="line"></div>
+      <div class="divStep" ><button class="step stepC" >2</button></div>
+      <div class="line"></div>
+      <div class="divStep" ><button class="step" [routerLink]="['/LogIn/2']">3</button></div>
+      <div class="line"></div>
+      <div class="divStep" ><button class="step" disabled>4</button></div>
+  
+  </div>
+    
+  </body>

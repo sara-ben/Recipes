@@ -1,0 +1,233 @@
+#div1{
+
+    line-height: 40px;
+    /* margin: 60px; */
+    border-radius: 50px;
+    background-color: white;
+    margin-left: 40px;
+    
+
+padding-top: 30px;
+    height: 680px;
+    top: 30px;
+    position: relative;
+    width: 77%;
+    float: left;
+    position: fixed;
+     overflow:auto;
+     scrollbar-width: 0 !important;
+
+}
+::-webkit-scrollbar {
+    width:0em;
+    height:0em
+}
+#div2{
+
+    border-radius: 50px;
+    background-color: white;
+    margin-left: 15px;
+    margin-right: 40px;
+padding-top: 30px;
+    height: 680px;
+    top: 30px;
+    position: relative;
+    width: 16%;
+    float: right;
+}
+#div3{
+    margin-left: 3vw;
+    margin-right: 3vw;
+}
+.title{
+    padding-top: 30px;
+    font-weight: bold;
+    font-size: 60px;
+    padding-bottom: 30px;
+}
+p{
+    font-size: 20px;
+    font-weight: bold;
+}
+.button1{
+    width: 150px;
+    height: 50px;
+    font-size: 25px;
+    /* float: left; */
+    position: fixed;
+    bottom: 80px;
+    left:110px;
+}
+.button2{
+    width: 150px;
+    height: 50px;
+    font-size: 25px;
+    /* float: left; */
+    position: fixed;
+    bottom: 80px;
+    left:280px;
+}
+.button3{
+    right:1030px; 
+    border-radius: 50px;
+    width: 50px;
+    height: 50px;
+    position: fixed;
+    bottom: 80px;
+}
+label{
+    font-size: 1vw;
+}
+body{
+background-color:rgb(179, 179, 179); 
+height: 100vh;
+}
+.step{
+    height: 42px;
+    width: 42px;
+    border-radius: 50px;
+    background-color: rgb(228, 227, 227);
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.divStep{
+    height: 42px;
+    width: 42px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50px;
+}
+.divStepF{
+    margin-top: 2vw;
+}
+.stepF{
+    background-color: #5bc0de;
+}
+.stepC{
+    border-width: 5px !important;
+  }
+.line{
+    height: 130px;
+    width: 10px;
+    background-color: rgb(228, 227, 227);
+    border-radius: 50px;
+    border: 0px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.white{
+    color: white;
+}
+.marginR{
+    margin-right: 0.5vw;
+}
+.marginL{
+    margin-left: 0.7vw;
+}
+
+.input-icons i { 
+    position: absolute; 
+} 
+  
+.input-icons { 
+    width: 100%; 
+    margin-bottom: 10px; 
+} 
+  
+.icon { 
+    padding: 10px; 
+    color: green; 
+    min-width: 50px; 
+    text-align: center; 
+} 
+  
+.input-field { 
+    width: 100%; 
+    padding: 10px; 
+    text-align: center; 
+} 
+.iconInput{
+    color: #ccc;
+    margin-right: 1050px;
+    margin-top: 6.5px;
+}
+.iconInputC{
+    color: #ccc;
+    margin-right: 450px;
+    margin-top: 7.5px;
+    /* left: 12px; */
+    z-index: 1;
+}
+.iconInputImage{
+    color: #ccc;
+    margin-right: 510px;
+    margin-top: 6.5px;
+}
+input{
+    height: 5vh;
+    border:1px solid #ccc;
+    
+}
+#input_container {
+    position:relative;
+    direction: rtl;
+    width: 100%;
+}
+#input {
+    width: 100%;
+}
+#input_img {
+    position:absolute;
+    bottom:4px;
+    right:170px;
+    width:250px;
+    height:auto;
+}
+.download{
+    height: 30px;
+    width: 40px;
+    position: absolute;
+    margin-top: 80px;
+    margin-right: -56px;
+    z-index: 1;
+}
+.downloadWord{
+ 
+    top: -5px !important;
+    position: absolute;
+    /* right: -0.1px; */
+    left: 2.5px;
+}
+.relate{
+    position: relative;
+}
+.tableProducts{
+    border: 2px solid #ccc;
+}
+td,th{
+    border: 1px solid #ccc;
+    width: 200px !important;
+    height: 40px;
+    text-align: center;
+    margin-left: 30px;
+}
+td{
+    top: -370px;
+    position: relative;
+}
+
+
+
+.tblJS{
+    border: 1px solid rgb(160, 159, 159);
+    background-color: red;
+}
+.btnAdd{
+    float: left; 
+    width: 70px; 
+    height: 40px;
+     margin-top: 6px;
+     margin-left: 2px;
+     border: 1px solid #ccc;
+}
